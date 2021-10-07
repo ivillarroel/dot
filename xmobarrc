@@ -1,0 +1,42 @@
+-- Xmobar (http://projects.haskell.org/xmobar/)
+-- This is the default xmobar configuration for DTOS.
+-- This config is packaged in the DTOS repo as dtos-xmobar
+-- Dependencies: otf-font-awesome ttf-mononoki ttf-ubuntu-font-family trayer
+-- Also depends on scripts from dtos-local-bin from the dtos-core-repo.
+
+Config { font            = "xft:Ubuntu:weight=bold:pixelsize=15:antialias=true:hinting=true"
+       , additionalFonts = [ "xft:Mononoki:pixelsize=15:antialias=true:hinting=true"
+                           , "xft:Font Awesome 5 Free Solid:pixelsize=16"
+                           , "xft:Font Awesome 5 Brands:pixelsize=16"
+                           ]
+       , bgColor      = "#282c34"
+       , fgColor      = "#ff6c6b"
+       , alpha	      = 200
+       -- Position TopSize and BottomSize take 3 arguments:
+       --   an alignment parameter (L/R/C) for Left, Right or Center.
+       --   an integer for the percentage width, so 100 would be 100%.
+       --   an integer for the minimum pixel height for xmobar, so 24 would force a height of at least 24 pixels.
+       --   NOTE: The height should be the same as the trayer (system tray) height.
+       , position       = TopSize L 100 34
+       , lowerOnStart = False
+       , hideOnStart  = False
+       , allDesktops  = False
+       , persistent   = True
+       , overrideRedirect = True
+       , iconRoot     = ".config/xmobar/"  -- default: "."
+       , commands = [
+                        -- Echos a "penguin" icon in front of the kernel output.
+                      Run Com "echo" ["<fn=3>\xf17c</fn>"] "penguin" 3600
+                        -- Get kernel version
+                    , Run Com "uname" ["-s","-r"] "" 0
+                        -- Echos an "up arrow" icon in front of the uptime output.
+                    , Run Com "echo" ["<fn=2>\xf0aa</fn>"] "uparrow" 3600
+                        -- Prints out the left side items such as workspaces, layout, etc.
+                    , Run UnsafeStdinReader
+		        -- Get date
+		    , Run Com "date" ["+%H:%M"] "mydate" 600
+                    ]
+       , sepChar = "%"
+       , alignSep = "}{"
+       , template = " <icon=peepo.xpm/>   }{ <box type=Bottom width=2 mb=2 color=#51afef><fc=#51afef>%penguin% </fc>  <fc=#51afef>%uname% </fc></box>   <box type=Bottom width=2 mb=2 color=#46d9ff><fc=#46d9ff>%mydate% </fc></box>"
+       }
