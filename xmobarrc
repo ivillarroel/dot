@@ -11,7 +11,7 @@ Config { font            = "xft:Ubuntu:weight=bold:pixelsize=15:antialias=true:h
                            ]
        , bgColor      = "#282c34"
        , fgColor      = "#ff6c6b"
-       , alpha	      = 200
+       , alpha	      = 256
        -- Position TopSize and BottomSize take 3 arguments:
        --   an alignment parameter (L/R/C) for Left, Right or Center.
        --   an integer for the percentage width, so 100 would be 100%.
@@ -31,41 +31,41 @@ Config { font            = "xft:Ubuntu:weight=bold:pixelsize=15:antialias=true:h
                         -- Echo an up arrow 
                     , Run Com "echo" ["<fn=3>\xf0aa</fn>"] "uparrow" 0
 
-			-- Echo volume icon
+			            -- Echo volume icon
                     , Run Com "echo" ["<fn=2>\xf028</fn>"] "volumeicon" 0
 
-			-- Echo temperature icon
+			            -- Echo temperature icon
                     , Run Com "echo" ["<fn=2>\xf2c9</fn>"] "temperatureicon" 0
 
-			-- Echo disk icon
+			            -- Echo disk icon
                     , Run Com "echo" ["<fn=2>\xf0a0</fn>"] "diskicon" 0
 
-			-- Echo wifi icon
+			            -- Echo wifi icon
                     , Run Com "echo" ["<fn=2>\xf1eb</fn>"] "wifiicon" 0
 
-			-- Echo clock icon
-                    -- , Run Com "echo" ["<fn=2>\e134</fn>"] "clockicon" 0
+			            -- Echo clock icon
+                    , Run Com "echo" ["<fn=2>\xf017</fn>"] "clockicon" 0
 
-                       -- Get kernel version
+                     -- Get kernel version
                     , Run Com "uname" ["-s","-r"] "" 0
 
-			-- Get weather
-		     , Run Weather "SANU" ["-t", "San Juan: <tempC>°"] 36000
+			         -- Get weather
+		            , Run Com "/home/nach/.local/bin/statusbar/weather2" [] "weather2" 36000
 
-		        -- Get date
-		    , Run Com "date" ["+%H:%M"] "mydate" 600
+		             -- Get date
+		            , Run Com "date" ["+%a %d %b %H:%M"] "mydate" 10
 
-			-- Get disk usage
-		    , Run DiskU [("/", "<used>/<size>"), ("sda2", "<usedbar>")]
-	                ["-L", "20", "-H", "50", "-m", "1", "-p", "3"] 20
+			         -- Get disk usage
+		            , Run DiskU [("/", "<used>/<size>"), ("sda2", "<usedbar>")]
+	                ["-L", "20", "-H", "50", "-m", "1", "-p", "3"] 36000
 	
-			-- Get network status
-		    , Run Wireless "" [] 100
+			         -- Get wifi status
+		            , Run Com "/home/nach/.local/bin/statusbar/internet" [] "wifistatus" 300
 
-		 	-- Get volume
-		    , Run Com "pamixer" ["--get-volume"] "myvolume" 0
+		 	         -- Get volume
+		            , Run Com "pamixer" ["--get-volume"] "myvolume" 100
                     ]
        , sepChar = "%"
        , alignSep = "}{"
-       , template = " <icon=peepo.xpm/>   }{ <box type=Bottom width=2 mb=2 color=#51afef><fc=#51afef>%penguin% </fc>  <fc=#51afef>%uname% </fc></box> <box type=Bottom width=2 mb=2 color=#98be65><fc=#98be65> %volumeicon% %myvolume%</fc></box>  <box type=Bottom width=2 mb=2 color=#ff6c6b><fc=#ff6c6b>%temperatureicon% %SANU%</fc></box>  <box type=Bottom width=2 mb=2 color=#a9a1e1><fc=#a9a1e1>%diskicon% %disku%</fc></box>  <box type=Bottom width=2 mb=2 color=#98be65><fc=#98be65>%wifiicon% %wi%</fc></box>  <box type=Bottom width=2 mb=2 color=#46d9ff><fc=#46d9ff>%mydate% </fc></box>"
+       , template = " <icon=peepo.xpm/>   }{ <box type=Bottom width=2 mb=2 color=#51afef><fc=#51afef>%penguin% </fc> <fc=#51afef>%uname% </fc></box>  <box type=Bottom width=2 mb=2 color=#98be65><fc=#98be65> %volumeicon% %myvolume%</fc></box>  <box type=Bottom width=2 mb=2 color=#ff6c6b><fc=#ff6c6b>%temperatureicon% %weather2%</fc></box>  <box type=Bottom width=2 mb=2 color=#a9a1e1><fc=#a9a1e1>%diskicon% %disku%</fc></box>  <box type=Bottom width=2 mb=2 color=#46d9ff><fc=#46d9ff>%wifiicon% <action=`st -e nmtui`>%wifistatus%</action> </fc></box>  <box type=Bottom width=2 mb=2 color=#ffee00><fc=#ffee00>%clockicon% %mydate% </fc></box>"
        }
