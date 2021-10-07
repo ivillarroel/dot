@@ -1,5 +1,8 @@
 -- Xmobar (http://projects.haskell.org/xmobar/)
--- Dependencies: ttf-font-awesome ttf-mononoki ttf-ubuntu-font-family
+-- This is the default xmobar configuration for DTOS.
+-- This config is packaged in the DTOS repo as dtos-xmobar
+-- Dependencies: otf-font-awesome ttf-mononoki ttf-ubuntu-font-family trayer
+-- Also depends on scripts from dtos-local-bin from the dtos-core-repo.
 
 Config { font            = "xft:Ubuntu:weight=bold:pixelsize=15:antialias=true:hinting=true"
        , additionalFonts = [ "xft:Mononoki:pixelsize=15:antialias=true:hinting=true"
@@ -22,18 +25,47 @@ Config { font            = "xft:Ubuntu:weight=bold:pixelsize=15:antialias=true:h
        , overrideRedirect = True
        , iconRoot     = ".config/xmobar/"  -- default: "."
        , commands = [
-                        -- Echos a "penguin" icon in front of the kernel output.
-                      Run Com "echo" ["<fn=3>\xf17c</fn>"] "penguin" 3600
-                        -- Get kernel version
+                        -- Echo a penguin
+                      Run Com "echo" ["<fn=3>\xf17c</fn>"] "penguin" 0
+
+                        -- Echo an up arrow 
+                    , Run Com "echo" ["<fn=3>\xf0aa</fn>"] "uparrow" 0
+
+			-- Echo volume icon
+                    , Run Com "echo" ["<fn=2>\xf028</fn>"] "volumeicon" 0
+
+			-- Echo temperature icon
+                    , Run Com "echo" ["<fn=2>\xf2c9</fn>"] "temperatureicon" 0
+
+			-- Echo disk icon
+                    , Run Com "echo" ["<fn=2>\xf0a0</fn>"] "diskicon" 0
+
+			-- Echo wifi icon
+                    , Run Com "echo" ["<fn=2>\xf1eb</fn>"] "wifiicon" 0
+
+			-- Echo clock icon
+                    -- , Run Com "echo" ["<fn=2>\e134</fn>"] "clockicon" 0
+
+                       -- Get kernel version
                     , Run Com "uname" ["-s","-r"] "" 0
-                        -- Echos an "up arrow" icon in front of the uptime output.
-                    , Run Com "echo" ["<fn=2>\xf0aa</fn>"] "uparrow" 3600
-                        -- Prints out the left side items such as workspaces, layout, etc.
-                    , Run UnsafeStdinReader
+
+			-- Get weather
+		     , Run Weather "SANU" ["-t", "San Juan: <tempC>°"] 36000
+
 		        -- Get date
 		    , Run Com "date" ["+%H:%M"] "mydate" 600
+
+			-- Get disk usage
+		    , Run DiskU [("/", "<used>/<size>"), ("sda2", "<usedbar>")]
+	                ["-L", "20", "-H", "50", "-m", "1", "-p", "3"] 20
+	
+			-- Get network status
+		    , Run Wireless "" [] 100
+
+		 	-- Get volume
+		    , Run Com "pamixer" ["--get-volume"] "myvolume" 0
                     ]
        , sepChar = "%"
        , alignSep = "}{"
-       , template = " <icon=peepo.xpm/>   }{ <box type=Bottom width=2 mb=2 color=#51afef><fc=#51afef>%penguin% </fc>  <fc=#51afef>%uname% </fc></box>   <box type=Bottom width=2 mb=2 color=#46d9ff><fc=#46d9ff>%mydate% </fc></box>"
+       , template = " <icon=peepo.xpm/>   }{ <box type=Bottom width=2 mb=2 color=#51afef><fc=#51afef>%penguin% </fc>  <fc=#51afef>%uname% </fc></box> <box type=Bottom width=2 mb=2 color=#98be65><fc=#98be65> %volumeicon% %myvolume%</fc></box>  <box type=Bottom width=2 mb=2 color=#ff6c6b><fc=#ff6c6b>%temperatureicon% %SANU%</fc></box>  <box type=Bottom width=2 mb=2 color=#a9a1e1><fc=#a9a1e1>%diskicon% %disku%</fc></box>  <box type=Bottom width=2 mb=2 color=#98be65><fc=#98be65>%wifiicon% %wi%</fc></box>  <box type=Bottom width=2 mb=2 color=#46d9ff><fc=#46d9ff>%mydate% </fc></box>"
        }
