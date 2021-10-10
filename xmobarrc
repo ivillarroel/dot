@@ -2,7 +2,6 @@
 -- This is the default xmobar configuration for DTOS.
 -- This config is packaged in the DTOS repo as dtos-xmobar
 -- Dependencies: otf-font-awesome ttf-mononoki ttf-ubuntu-font-family trayer
--- Also depends on scripts from dtos-local-bin from the dtos-core-repo.
 
 Config { font            = "xft:Ubuntu:weight=bold:pixelsize=15:antialias=true:hinting=true"
        , additionalFonts = [ "xft:Mononoki:pixelsize=15:antialias=true:hinting=true"
@@ -11,7 +10,7 @@ Config { font            = "xft:Ubuntu:weight=bold:pixelsize=15:antialias=true:h
                            ]
        , bgColor      = "#282c34"
        , fgColor      = "#ff6c6b"
-       , alpha	      = 256
+       , alpha	      = 128
        -- Position TopSize and BottomSize take 3 arguments:
        --   an alignment parameter (L/R/C) for Left, Right or Center.
        --   an integer for the percentage width, so 100 would be 100%.
@@ -25,11 +24,14 @@ Config { font            = "xft:Ubuntu:weight=bold:pixelsize=15:antialias=true:h
        , overrideRedirect = True
        , iconRoot     = ".config/xmobar/"  -- default: "."
        , commands = [
-                        -- Echo a penguin
+                        -- Echo penguin
                       Run Com "echo" ["<fn=3>\xf17c</fn>"] "penguin" 0
 
-                        -- Echo an up arrow 
+                        -- Echo up arrow 
                     , Run Com "echo" ["<fn=3>\xf0aa</fn>"] "uparrow" 0
+
+			            -- Echo down arrow
+                    , Run Com "echo" ["<fn=2>\xf3be</fn>"] "downarrow" 0
 
 			            -- Echo volume icon
                     , Run Com "echo" ["<fn=2>\xf028</fn>"] "volumeicon" 0
@@ -43,29 +45,32 @@ Config { font            = "xft:Ubuntu:weight=bold:pixelsize=15:antialias=true:h
 			            -- Echo wifi icon
                     , Run Com "echo" ["<fn=2>\xf1eb</fn>"] "wifiicon" 0
 
-			            -- Echo clock icon
+			            -- Echo clock
                     , Run Com "echo" ["<fn=2>\xf017</fn>"] "clockicon" 0
 
                      -- Get kernel version
                     , Run Com "uname" ["-s","-r"] "" 0
-
-			         -- Get weather
-		            , Run Com "/home/nach/.local/bin/statusbar/weather2" [] "weather2" 36000
 
 		             -- Get date
 		            , Run Com "date" ["+%a %d %b %H:%M"] "mydate" 10
 
 			         -- Get disk usage
 		            , Run DiskU [("/", "<used>/<size>"), ("sda2", "<usedbar>")]
-	                ["-L", "20", "-H", "50", "-m", "1", "-p", "3"] 36000
+	                ["-L", "20", "-H", "50", "-m", "1", "-p", "3"] 0
 	
 			         -- Get wifi status
 		            , Run Com "/home/nach/.local/bin/statusbar/internet" [] "wifistatus" 300
 
 		 	         -- Get volume
-		            , Run Com "pamixer" ["--get-volume"] "myvolume" 100
-                    ]
+		            , Run Com "pamixer" ["--get-volume"] "myvolume" 50
+
+                     -- Get network traffic
+                    , Run Com "/home/nach/.local/bin/statusbar/nettraf" [] "nettraf" 10
+    
+			         -- Get weather
+		            , Run Com "/home/nach/.local/bin/statusbar/weather2" [] "weather2" 72000
+                ]
        , sepChar = "%"
        , alignSep = "}{"
-       , template = " <icon=peepo.xpm/>   }{ <box type=Bottom width=2 mb=2 color=#51afef><fc=#51afef>%penguin% </fc> <fc=#51afef>%uname% </fc></box>  <box type=Bottom width=2 mb=2 color=#98be65><fc=#98be65> %volumeicon% %myvolume%</fc></box>  <box type=Bottom width=2 mb=2 color=#ff6c6b><fc=#ff6c6b>%temperatureicon% %weather2%</fc></box>  <box type=Bottom width=2 mb=2 color=#a9a1e1><fc=#a9a1e1>%diskicon% %disku%</fc></box>  <box type=Bottom width=2 mb=2 color=#46d9ff><fc=#46d9ff>%wifiicon% <action=`st -e nmtui`>%wifistatus%</action> </fc></box>  <box type=Bottom width=2 mb=2 color=#ffee00><fc=#ffee00>%clockicon% %mydate% </fc></box>"
+       , template = " <icon=peepo.xpm/>   }{<box type=Bottom width=2 mb=2 color=#FF00E6><fc=#FF00E6>%downarrow% %nettraf%</fc></box>  <box type=Bottom width=2 mb=2 color=#51afef><fc=#51afef>%penguin% </fc><fc=#51afef>%uname% </fc></box>  <box type=Bottom width=2 mb=2 color=#98be65><fc=#98be65> %volumeicon% %myvolume%</fc></box>  <box type=Bottom width=2 mb=2 color=#ff6c6b><fc=#ff6c6b>%temperatureicon% %weather2%</fc></box>  <box type=Bottom width=2 mb=2 color=#a9a1e1><fc=#a9a1e1>%diskicon% %disku%</fc></box>  <box type=Bottom width=2 mb=2 color=#46d9ff><fc=#46d9ff><action=`st -e nmtui`>%wifiicon% %wifistatus%</action></fc></box>  <box type=Bottom width=2 mb=2 color=#ffee00><fc=#ffee00>%clockicon% %mydate% </fc></box>"
        }
