@@ -1,0 +1,139 @@
+[colors]
+background = #bb363532
+background-alt = #444
+background-unfocused = #000000
+foreground = #ffc800
+foreground-alt = #555
+primary = #ffb52a
+secondary = #e60053
+alert = #bd2c40
+
+[bar/main]
+;monitor = ${env:MONITOR:HDMI-1}
+width = 100%
+height = 27
+radius = 0
+fixed-center = false
+background = ${colors.background}
+foreground = ${colors.foreground}
+line-size = 3
+line-color = #00d9ff
+border-size = 2
+border-color = #00000000
+padding-left = 0
+padding-right = 2
+module-margin-left = 2
+module-margin-right = 2
+font-0 = fixed:pixelsize=10;1
+font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
+font-2 = siji:pixelsize=10;1
+modules-left = dwm
+modules-center = 
+modules-right = pulseaudio date
+tray-position = right
+tray-padding = 2
+override-redirect = false
+cursor-click = pointer
+cursor-scroll = ns-resize
+
+[module/dwm]
+type = internal/dwm
+;format = <label-tags> <label-layout> <label-floating> <label-title>
+format = <label-tags> <label-floating> <label-title>
+
+; Left-click to view tag, right-click to toggle tag view
+enable-tags-click = false
+; Scroll to cycle between available tags
+enable-tags-scroll = false
+; If true and enable-tags-scroll = true, scrolling will view all tags regardless if occupied
+tags-scroll-empty = false
+; If true and enable-tags-scroll = true, scrolling will cycle through tags backwards
+tags-scroll-reverse = false
+; If true and enable-tags-scroll = true, wrap active tag when scrolling
+tags-scroll-wrap = false
+; Left-click to set secondary layout, right-click to switch to previous layout
+enable-layout-click = false
+; Scroll to cycle between available layouts
+enable-layout-scroll = false
+; Wrap when scrolling and reaching begining/end of layouts
+layout-scroll-wrap = false
+; Reverse scroll direction
+layout-scroll-reverse = false
+; If enable-layout-click = true, clicking the layout symbol will switch to this layout
+secondary-layout-symbol = [M]
+; Separator in between shown tags
+; label-separator = |
+; Title of currently focused window
+label-title = %title%
+label-title-padding = 2
+label-title-forefround = ${colors.primary}
+label-title-maxlen = 30
+; Text to show when currently focused window is floating
+label-floating = ~
+; focused = Selected tag on focused monitor
+label-focused = %name%
+label-focused-background = #505050
+label-focused-underline= ${colors.primary}
+label-focused-padding = 4
+; unfocused = Unselected tag on unselected monitor
+label-unfocused = %name%
+label-unfocused-padding = 2
+; visible = Unselected tag, but occupied tag on any monitor
+label-visible = %name%
+label-visible-background = #363532
+label-visible-underline = #363532
+label-visible-padding = ${self.label-focused-padding}
+; urgent = Unselected tag with window that has urgency hint set
+label-urgent = %name%
+label-urgent-background = ${colors.alert}
+label-urgent-padding = 2
+; empty
+;label-empty = %name%
+label-empty = ""
+label-empty-background = ${colors.primary}
+label-empty-padding = 2
+
+[module/date]
+type = internal/date
+interval = 5
+date =
+date-alt = "%a %d %b %H:%M"
+time = %a %d %b %H:%M
+time-alt = %H:%M:%S
+format-underline = #0a6cf5
+label = %time%
+
+[module/pulseaudio]
+type = internal/pulseaudio
+format-volume = <label-volume> <bar-volume>
+label-volume = VOL %percentage%%
+label-volume-foreground = ${root.foreground}
+label-muted = muted
+label-muted-foreground = #666
+
+bar-volume-width = 10
+bar-volume-foreground-0 = #55aa55
+bar-volume-foreground-1 = #55aa55
+bar-volume-foreground-2 = #55aa55
+bar-volume-foreground-3 = #55aa55
+bar-volume-foreground-4 = #55aa55
+bar-volume-foreground-5 = #f5a70a
+bar-volume-foreground-6 = #ff5555
+bar-volume-gradient = false
+bar-volume-indicator = |
+bar-volume-indicator-font = 2
+bar-volume-fill = ─
+bar-volume-fill-font = 2
+bar-volume-empty = ─
+bar-volume-empty-font = 2
+bar-volume-empty-foreground = ${colors.foreground-alt}
+
+[settings]
+screenchange-reload = true
+pseudo-transparency = false
+
+[global/wm]
+margin-top = 5
+margin-bottom = 5
+
+; vim:ft=dosini
