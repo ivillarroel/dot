@@ -8,18 +8,13 @@ Config { font            = "xft:Ubuntu:weight=bold:pixelsize=15:antialias=true:h
        , bgColor      = "#282c34"
        , fgColor      = "#ff6c6b"
        , alpha	      = 128
-       -- Position TopSize and BottomSize take 3 arguments:
-       --   an alignment parameter (L/R/C) for Left, Right or Center.
-       --   an integer for the percentage width, so 100 would be 100%.
-       --   an integer for the minimum pixel height for xmobar, so 24 would force a height of at least 24 pixels.
-       --   NOTE: The height should be the same as the trayer (system tray) height.
        , position       = TopSize L 100 34
        , lowerOnStart = False
        , hideOnStart  = False
        , allDesktops  = False
        , persistent   = True
        , overrideRedirect = True
-       , iconRoot     = ".config/xmobar/"  -- default: "."
+       , iconRoot     = ".config/xmobar/"
        , commands = [
                         -- Echo penguin
                       Run Com "echo" ["<fn=3>\xf17c</fn>"] "penguin" 0
