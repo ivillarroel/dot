@@ -6,22 +6,17 @@ import System.Exit (exitSuccess)
 import qualified XMonad.StackSet as W
 
     -- Actions
-import XMonad.Actions.CopyWindow (kill1)
 import XMonad.Actions.CycleWS (Direction1D(..), moveTo, shiftTo, WSType(..), nextScreen, prevScreen)
-import XMonad.Actions.GridSelect
 import XMonad.Actions.MouseResize
 import XMonad.Actions.Promote
-import XMonad.Actions.RotSlaves (rotSlavesDown, rotAllDown)
-import XMonad.Actions.WindowGo (runOrRaise)
-import XMonad.Actions.WithAll (sinkAll, killAll)
-import qualified XMonad.Actions.Search as S
+import XMonad.Actions.WithAll (sinkAll)
 
     -- Data
-import Data.Char (isSpace, toUpper)
-import Data.Maybe (fromJust)
+--import Data.Char (isSpace, toUpper)
+--import Data.Maybe (fromJust)
 import Data.Monoid
-import Data.Maybe (isJust)
-import Data.Tree
+--import Data.Maybe (isJust)
+--import Data.Tree
 import qualified Data.Map as M
 
     -- Hooks
@@ -37,8 +32,6 @@ import XMonad.Hooks.WorkspaceHistory
 import XMonad.Layout.GridVariants (Grid(Grid))
 import XMonad.Layout.SimplestFloat
 import XMonad.Layout.ResizableTile
-import XMonad.Layout.Tabbed
-import XMonad.Layout.Gaps
 
     -- Layouts modifiers
 import XMonad.Layout.LayoutModifier
@@ -57,9 +50,9 @@ import qualified XMonad.Layout.ToggleLayouts as T (toggleLayouts, ToggleLayout(T
 import qualified XMonad.Layout.MultiToggle as MT (Toggle(..))
 
    -- Utilities
-import XMonad.Util.Dmenu
+--import XMonad.Util.Dmenu
 import XMonad.Util.EZConfig (additionalKeysP)
-import XMonad.Util.NamedScratchpad
+--import XMonad.Util.NamedScratchpad
 import XMonad.Util.Run (runProcessWithInput, safeSpawn, spawnPipe)
 import XMonad.Util.SpawnOnce
 
@@ -191,7 +184,8 @@ myKeys =
 	, ("<XF86MonBrightnessDown>", spawn "xbacklight -dec 10")
 	, ("<XF86MonBrightnessUp>", spawn "xbacklight -inc 10")
 	-- Navigation
-        , ("M-q", kill1)
+        --, ("M-q", kill1)
+        , ("M-q", kill)
         , ("M-C-k>", nextScreen)
         , ("M-C-j>", prevScreen)
         , ("M-S-f", sendMessage (T.Toggle "floats")) -- Toggles floats layout
@@ -201,20 +195,20 @@ myKeys =
         , ("M-s", incWindowSpacing 2)
         , ("M-C-h", decScreenSpacing 4) -- Decrease screen spacing
         , ("M-C-l", incScreenSpacing 4) -- Increase screen spacing
-        , ("M-<Space>", windows W.focusMaster)
+        , ("M-<Space>", promote)
         , ("M-S-m", windows W.swapMaster) -- Swap the focused window and the master window
         , ("M-j", windows W.focusDown)
         , ("M-k", windows W.focusUp)
-        , ("M-C-<Tab>", rotAllDown)
+        --, ("M-C-<Tab>", rotAllDown)
         , ("M-<Tab>", sendMessage NextLayout)
         , ("M-f", sendMessage (MT.Toggle NBFULL) >> sendMessage ToggleStruts) -- Toggles noborder/full
         , ("M-h", sendMessage Shrink)
         , ("M-l", sendMessage Expand)
-        , ("M-g", sendMessage $ ToggleGaps)
+        --, ("M-g", sendMessage $ ToggleGaps)
         ]
     -- The following lines are needed for named scratchpads.
-          where nonNSP          = WSIs (return (\ws -> W.tag ws /= "NSP"))
-                nonEmptyNonNSP  = WSIs (return (\ws -> isJust (W.stack ws) && W.tag ws /= "NSP"))
+--          where nonNSP          = WSIs (return (\ws -> W.tag ws /= "NSP"))
+--                nonEmptyNonNSP  = WSIs (return (\ws -> isJust (W.stack ws) && W.tag ws /= "NSP"))
 -- END_KEYS
 
 main :: IO ()
@@ -238,7 +232,8 @@ main = do
         , borderWidth        = myBorderWidth
         , normalBorderColor  = myNormColor
         , focusedBorderColor = myFocusColor
-        , logHook = dynamicLogWithPP $ namedScratchpadFilterOutWorkspacePP $ xmobarPP
+        --, logHook = dynamicLogWithPP $ namedScratchpadFilterOutWorkspacePP $ xmobarPP
+        , logHook = dynamicLogWithPP $ xmobarPP
               { ppOutput = \x -> hPutStrLn xmproc0 x                          -- xmobar on monitor 1
               , ppCurrent = xmobarColor "#fffb00" "" . wrap "<box type=Bottom width=2 mb=2 color=#fffb00>" "</box>"         -- Current workspace
               , ppTitle = xmobarColor "#b3afc2" "" . shorten 60               -- Title of active window
