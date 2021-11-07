@@ -67,7 +67,7 @@ myFont :: String
 myFont = "xft:SauceCodePro Nerd Font Mono:regular:size=9:antialias=true:hinting=true"
 
 myModMask :: KeyMask
-myModMask = mod4Mask
+myModMask = mod1Mask
 
 myTerminal :: String
 myTerminal = "st"
@@ -89,13 +89,15 @@ myStartupHook = do
     spawnOnce "nitrogen --restore &"
     setWMName "LG3D"
 
-myColorizer :: Window -> Bool -> X (String, String)
-myColorizer = colorRangeFromClassName
-                  (0x28,0x2c,0x34) -- lowest inactive bg
-                  (0x28,0x2c,0x34) -- highest inactive bg
-                  (0xc7,0x92,0xea) -- active bg
-                  (0xc0,0xa7,0x9a) -- inactive fg
-                  (0x28,0x2c,0x34) -- active fg
+-- myColorizer :: Window -> Bool -> X (String, String)
+-- myColorizer = colorRangeFromClassName
+--                   --(0x28,0x2c,0x34) -- lowest inactive bg
+--                   (0xc0,0xa7,0x9a) -- lowest inactive fg
+--                   (0xc0,0xa7,0x9a) -- highest inactive fg
+--                   --(0x28,0x2c,0x34) -- highest inactive bg
+--                   (0xc7,0x92,0xea) -- active bg
+--                   (0xc0,0xa7,0x9a) -- inactive fg
+--                   (0x28,0x2c,0x34) -- active fg
 
 --Makes setting the spacingRaw simpler to write. The spacingRaw module adds a configurable amount of space around windows.
 mySpacing :: Integer -> l a -> XMonad.Layout.LayoutModifier.ModifiedLayout Spacing l a
