@@ -61,8 +61,9 @@ Config { font            = "xft:Ubuntu:weight=bold:pixelsize=15:antialias=true:h
     
 			         -- Get weather
 		            , Run Com "/home/nach/.local/bin/statusbar/weather2" [] "weather2" 72000
+				, Run UnsafeStdinReader
                 ]
        , sepChar = "%"
        , alignSep = "}{"
-       , template = " <icon=peepo.xpm/>   }{<box type=Bottom width=2 mb=2 color=#FF00E6><fc=#FF00E6>%downarrow% %nettraf%</fc></box>  <box type=Bottom width=2 mb=2 color=#51afef><fc=#51afef>%penguin% </fc><fc=#51afef>%uname% </fc></box>  <box type=Bottom width=2 mb=2 color=#98be65><fc=#98be65> %volumeicon% %myvolume%</fc></box>  <box type=Bottom width=2 mb=2 color=#ff6c6b><fc=#ff6c6b>%temperatureicon% %weather2%</fc></box>  <box type=Bottom width=2 mb=2 color=#a9a1e1><fc=#a9a1e1>%diskicon% %disku%</fc></box>  <box type=Bottom width=2 mb=2 color=#46d9ff><fc=#46d9ff><action=`st -e nmtui`>%wifiicon% %wifistatus%</action></fc></box>  <box type=Bottom width=2 mb=2 color=#ffee00><fc=#ffee00>%clockicon% %mydate% </fc></box>"
+       , template = " <icon=peepo.xpm/>  %UnsafeStdinReader% }{<box type=Bottom width=2 mb=2 color=#FF00E6><fc=#FF00E6>%downarrow% %nettraf%</fc></box>  <box type=Bottom width=2 mb=2 color=#51afef><fc=#51afef>%penguin% </fc><fc=#51afef>%uname% </fc></box>  <box type=Bottom width=2 mb=2 color=#98be65><fc=#98be65> %volumeicon% %myvolume%</fc></box>  <box type=Bottom width=2 mb=2 color=#ff6c6b><fc=#ff6c6b>%temperatureicon% %weather2%</fc></box>  <box type=Bottom width=2 mb=2 color=#a9a1e1><fc=#a9a1e1>%diskicon% %disku%</fc></box>  <box type=Bottom width=2 mb=2 color=#46d9ff><fc=#46d9ff><action=`st -e nmtui`>%wifiicon% %wifistatus%</action></fc></box>  <box type=Bottom width=2 mb=2 color=#ffee00><fc=#ffee00>%clockicon% %mydate% </fc></box>"
        }
