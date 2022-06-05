@@ -1,0 +1,32 @@
+#!/bin/sh
+
+# settings
+alias \
+	cp="cp -iv" \
+	mv="mv -iv" \
+	rm="rm -v" \
+	la="exa -a" \
+	ll="exa -la" \
+	v="vim" \
+
+# colores
+alias \
+	ls="ls -hN --color=auto --group-directories-first" \
+	grep="grep --color=auto" \
+
+# misc
+alias \
+	p="sudo pacman" \
+	off="sudo shutdown -h now" \
+	ttv="streamlink --player mpv" \
+    src="cd ~/.local/src" \
+	gamma1="xgamma -gamma 1" \
+	gamma2="xgamma -gamma 2" \
+	monitor1="xrandr --output eDP1 --mode 640x480" \
+	monitor2="xrandr --output eDP1 --mode 1366x768 --output HDMI1 --mode 1366x768 --left-of eDP1" \
+	monitor3="xrandr --output HDMI1 --mode 640x480" \
+	brillomin="sudo light -U 100 && xrandr --output HDMI1 --brightness 0.3" \
+    brillomid="xrandr --output HDMI1 --brightness 0.5" \
+	brillomax="sudo light -A 100 && xrandr --output HDMI1 --brightness 1" \
+	sv="cd ~/files/server && ./srcds_run -game csgo -console -usercon +game_type 0 +game_mode 0 +mapgroup mg_active +map kz_retribution_v2_final +sv_setsteamaccount CCE179AA13F701D944EAEE5D0599620F +exec server.cfg -tickrate 128" \
+    sv_update="steamcmd +force_install_dir /home/nach/files/server/ +login anonymous  +app_update 740 +quit" \
