@@ -1,18 +1,12 @@
 #!/bin/sh
 
-# xinitrc runs automatically when you run startx.
-
-# There are some small but important commands that need to be run when we start
-# the graphical environment. I keep those commands in ~/config/xprofile because
-# that file is run automatically if someone uses a display manager (login
-# screen) and so they are needed there. To prevent doubling up commands, I
-# source them here with the line below.
-
-# export STATUSBAR="i3blocks" # Uncomment this line when using i3.
-
-~/.xprofile
-
-# Your default LARBS WM is determined in your `~/.profile` on login.  Here we
-# run the proper command to run when the graphical environment starts.
-#ssh-agent dwm
-exec dwm
+nitrogen --restore &
+xcompmgr &
+unclutter --timeout 1 &
+#setxkbmap -layout us -variant intl
+#xmodmap ~/.config/.xmodmap2
+#xcape -e 'Mode_switch=Escape'
+xset r rate 300 50 &
+openrgb -c FA8679 &
+xrandr --output eDP1 --mode 1366x768 --output HDMI1 --auto --left-of eDP1 &
+~/.local/bin/weather &
