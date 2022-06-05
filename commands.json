@@ -1,0 +1,772 @@
+{
+    "commands": [
+        {
+            "name": ".clipit",
+            "func": "LUL 💦 🎬 ⠄⣶⠟⠛⢷⡆⠄⣿⠄⠄⠄⠄⣿⡇⢸⣿⠛⠛⣶⡄⠄⠄⢸⣿⠘⠛⠛⣿⠛⠃ ⢸⣇⠄⠄⠄⠄⠄⣿⠄⠄⠄⠄⣿⡇⢸⣿⠶⠶⠿⠃⠄⠄⢸⣿⠄⠄⠄⣿⠄⠄ ⠄⠿⣦⣤⣼⠇⠄⣿⣤⣤⣤⡄⣿⡇⢸⣿⠄⠄⠄⠄⠄⠄⢸⣿⠄⠄⠄⣿⠄⠄"
+        },
+        {
+            "name": ".xqcread",
+            "func": "PepegaReading 𝓘 𝓪𝓶 𝓪 𝓜𝓪𝓷 𝓸𝓯 𝓕𝓸𝓻𝓽𝓾𝓷𝓮 𝓪𝓷𝓭 𝓘 𝓶𝓾𝓼𝓽 𝓼𝓮𝓮𝓴 𝓶𝔂 𝓕𝓸𝓻𝓽𝓾𝓷𝓮"
+        },
+        {
+            "name": ".xqcl",
+            "func": "xqcL ✨ ✨ ✨ ⣋⡥⠖⠲⠶⢾⣶⡶⠾⠽⡛⣿⠿⣿⠿⣿⣿⣿⢿⢿⣿⣿⡿⣿⣿⡏⢹⣿⣿ ⠿⠿⠷⠶⠶⠾⠿⠷⢶⡮⢱⣿⡦⠈⢠⣿⡏⢠⡆⢸⣿⠁⣴⣤⣿⡇⢸⣿⣿ ⣀⡀⠄⠄⠄⠁⢐⡒⠶⠄⢹⣿⣥⣴⣤⣿⣷⣤⣥⢸⣿⣦⣬⣤⣿⣧⣬⣭⣽"
+        },
+        {
+            "name": ".lulw",
+            "func": "⠀⠀⠀⠀⠀ ⠀ LULW ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ LULW LULW ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ LULW LULW LULW ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ LULW LULW LULW LULW ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ LULW LULW LULW LULW LULW ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ LULW LULW LULW LULW LULW LULW ⠀⠀⠀⠀⠀⠀⠀⠀⠀ LULW LULW LULW LULW LULW LULW LULW"
+        },
+        {
+            "name": ".pepegaaim",
+            "func": "ppOverheat ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ xqcADHD ppHop ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ xqcADHD PepegaAim ppOverheat ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀⠀ ⠀ ⠀ ppOverheat xqcADHD ppHop xqcADHD"
+        },
+        {
+            "name": ".weebsout",
+            "func": "NaM 👇 ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ NaM 👉 🚪 👈 NaM ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ 👆 NaM WEEBS"
+        },
+        {
+            "name": ".circle",
+            "func": "{1} {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} {1} {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} {1}"
+        },
+        {
+            "name": ".circle2",
+            "func": "{1} {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} {2} {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} {1}"
+        },
+        {
+            "name": ".tall",
+            "func": "{1} {1} {1} {1} ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ {1} {1} {1} {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} {1} {1} {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀⠀⠀⠀ ⠀ {1} {1} {1} {1}"
+        },
+        {
+            "name": ".tall2",
+            "func": "{1} {1} {1} {1} ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ {1} {2} {2} {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} {2} {2} {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀⠀⠀⠀ ⠀ {1} {1} {1} {1}"
+        },
+        {
+            "name": ".tall3",
+            "func": "{1} {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} {1} {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} {1} {1} {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} {1} {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} {1} 󠀀"
+        },
+        {
+            "name": ".tall4",
+            "func": "⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} 󠀀"
+        },
+        {
+            "name": ".tall5",
+            "func": "{1} {1} {1} {1} ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ {1} {2} {2} {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} {2} {2} {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀⠀⠀⠀ ⠀ {1} {1} {1} 󠀀 󠀀"
+        },
+        {
+            "name": ".abdulpls",
+            "func": "ABDULpls ABDULpls ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ABDULpls 🕋 ABDULpls ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ABDULpls ABDULpls 󠀀 󠀀"
+        },
+        {
+            "name": ".pyramid",
+            "func": "{1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} {1} ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀⠀ ⠀ {1} {1} {1} ⠀⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀⠀ ⠀ ⠀ {1} {1} {1} {1}"
+        },
+        {
+            "name": ".pyramid2",
+            "func": "{1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} {1} ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀⠀ ⠀ {1} {2} {1} ⠀⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀⠀ ⠀ ⠀ {1} {1} {1} {1}"
+        },
+        {
+            "name": ".pyramid3",
+            "func": "{1} {1} {1} {1} ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} {1} {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ {1} {1} ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ {1} 󠀀 󠀀 󠀀"
+        },
+        {
+            "name": ".trihard7",
+            "func": "TriHard TriHard TriHard ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀ TriHard ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ TriHard ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ TriHard ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ TriHard"
+        },
+        {
+            "name": ".nam2",
+            "func": "/me ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂ ꧄꧄꧄꧄꧄꧄ ꧁ NaM ꧂"
+        },
+        {
+            "name": ".nam3",
+            "func": "🈹 🈴 🈺 🈯 🈷 🈶 🈵 🈚 🈸 🈲 🈳 NaM 🈹 🈴 🈺 🈯 🈷 🈶 🈵 🈚 🈸 🈲 🈳 NaM 🈹 🈴 🈺 🈯 🈷 🈶 🈵 🈚 🈸 🈲 🈳 NaM 🈹 🈴 🈺 🈯 🈷 🈶 🈵 🈚 🈸 🈲 🈳 NaM 🈹 🈴 🈺 🈯 🈷 🈶 🈵 🈚 🈸 🈲 🈳 NaM 🈹 🈴 🈺 🈯 🈷 🈶 🈵 🈚 🈸 🈲 🈳 NaM 🈹 🈴 🈺 🈯 🈷 🈶 🈹 🈴 🈹 🈴 🈺 🈯 🈷 🈶 🈵 🈚 🈸 🈲 🈳 NaM 🈹 🈴 🈺 🈯 🈷 🈶 🈵 🈚 🈸 🈲 🈳 NaM 🈹 🈴 🈺 🈯 🈷 🈶 🈵 🈚 🈸 🈲 🈳 NaM 🈹 🈴 🈺 🈯 🈷 🈶 🈵 🈚 🈸 🈲 🈳 NaM 🈹 🈴 🈺 🈯 🈷 🈶 🈵 🈚 🈸 🈲 🈳 NaM 🈹 🈴 🈺 🈯 🈷 🈶 🈵 🈚 🈸 🈲 🈳 NaM 🈹 🈴 🈺 🈯 🈷 🈶 🈹 🈴 🈹 🈴"
+        },
+        {
+            "name": ".nam4",
+            "func": "🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷 🐷 🍓 🍑 🍊 🍋 🍍 NaM 🍐 🍏 🐬 🐳 NaM 🍆 🐙 🌷"
+        },
+        {
+            "name": ".nuke",
+            "func": "KKonaW ☢ ⠀⠀⠀⠀⠀⠀⣶⠀⠀⢰⠀⢰⠀⠀⠀⣶⠀⡆⠀⢀⡶⠀⣶⠶⠶⠶⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⡇⠙⣦⢸⠀⢸⠀⠀⠀⣿⠀⣷⠻⣄⠀⠀⣿⠶⠶⠖⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠇⠀⠀⠻⠀⠀⠻⠶⠞⠁⠀⠇⠀⠀⠻⠀⠿⠶⠶⠶⠀"
+        },
+        {
+            "name": ".google",
+            "func": "hackerCD G OMEGALUL OMEGALUL G forsenWC E"
+        },
+        {
+            "name": ".pogwall",
+            "func": "Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog Pog 󠀀"
+        },
+        {
+            "name": ".lol",
+            "func": "forsenWC OMEGALUL forsenWC"
+        },
+        {
+            "name": ".j",
+            "func": "forsenJoy {1+}"
+        },
+        {
+            "name": ".alienpls",
+            "func": "⠀ ﾟ⠀*⠀ ｡⠀ ⠀ﾟ⠀｡ ⠀ ⠀⠀ ☆⠀ ⠀★⠀⠀⠀⠀⠀ ･ﾟ⠀ ⠀ ⠀ ★⠀ ｡･⠀⠀⠀ﾟ⠀⠀｡⠀ AlienPls ⠀⠀⠀ ⠀ ★⠀ ⠀ ･･⠀⠀ ⠀ ∴⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ﾟ⠀ ⠀ ⠀ *⠀ﾟ⠀⠀⠀★⠀⠀⠀ ｡･⠀ ⠀⠀⠀⠀⠀⠀"
+        },
+        {
+            "name": ".antiweeb",
+            "func": "LONGANTIWEEBMESSAGEWEEBSGTFO NaM LONGANTIWEEBMESSAGEWEEBSGTFO NaM LONGANTIWEEBMESSAGEWEEBSGTFO NaM LONGANTIWEEBMESSAGEWEEBSGTFO NaM LONGANTIWEEBMESSAGEWEEBSGTFO NaM LONGANTIWEEBMESSAGEWEEBSGTFO NaM LONGANTIWEEBMESSAGEWEEBSGTFO NaM LONGANTIWEEBMESSAGEWEEBSGTFO NaM LONGANTIWEEBMESSAGEWEEBSGTFO NaM 󠀀 󠀀"
+        },
+        {
+            "name": ".d",
+            "func": "FeelsDankMan {1+}"
+        },
+        {
+            "name": ".do",
+            "func": "FeelsDonkMan {1+}"
+        },
+        {
+            "name": ".tanktoayaya",
+            "func": "█ Okayeg █ ]▄▄▄▄▄▄▄ 💥 AYAYA ..............▂▄▅█████████▅▄▃▂ .............███████████████████] .............◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤"
+        },
+        {
+            "name": ".2751",
+            "func": "/me forsenSmug TeaTime ⣟⣩⣭⡉⢿⣭⣭⣭⠉⣿⣿⣿⡏⢩⣭⣭⣿⣋⡉⢹ ⣿⡿⠟⣣⣾⣿⣿⠋⣼⣿⣧⣼⣧⣬⣭⡝⢻⣿⡇⢸ ⣏⣐⣚⣛⣻⣿⣇⣼⣿⣿⣏⣹⣟⣛⣛⣡⣾⣿⣇⣸"
+        },
+        {
+            "name": ".dance",
+            "func": "forsenDisco forsenDiscoSnake forsenPls forsenParty forsenDisco forsenDiscoSnake forsenPls forsenParty forsenDisco forsenDiscoSnake forsenPls forsenParty forsenDisco forsenDiscoSnake forsenPls forsenParty forsenDisco forsenDiscoSnake forsenPls forsenParty forsenDisco forsenDiscoSnake forsenPls forsenParty forsenDisco forsenDiscoSnake forsenPls forsenParty forsenDisco forsenDiscoSnake forsenPls forsenParty 󠀀"
+        },
+        {
+            "name": "swa",
+            "func": "forsenSWA {1+}"
+        },
+        {
+            "name": ".praise",
+            "func": "forsenComfy ☝ 🕋 صلي إلى الإله الواحد الحقيقي forsenComfy ☝ 🕋 صلي إلى الإله الواحد الحقيقي forsenComfy ☝ 🕋 صلي إلى الإله الواحد الحقيقي forsenComfy ☝ 🕋 صلي إلى الإله الواحد الحقيقي 󠀀"
+        },
+        {
+            "name": ".power",
+            "func": "/me gachiBASS Aw, You Like That, Huh? ✨ Ah, That's Power, Son gachiBASS Ah, That's Power, UHRRR ✨ That's Power OHHH~ gachiBASS Aw, You Like That, Huh? 󠀀"
+        },
+        {
+            "name": ".smug",
+            "func": "forsenSmug SmugTime {1+}"
+        },
+        {
+            "name": "pag",
+            "func": "VisLaud {1+}"
+        },
+        {
+            "name": "wa",
+            "func": "WAYTOODANK {1+}"
+        },
+        {
+            "name": ".p",
+            "func": "forsenParty {1+}"
+        },
+        {
+            "name": ".forsene",
+            "func": "⠀⠀⠀ ⠀ ⠀ ⠀⠀⠀ forsenE forsenE forsenE forsenE ⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀ forsenE forsen1 forsen2 forsenE ⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀ forsenE forsen3 forsen4 forsenE ⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀ forsenE forsenE forsenE forsenE 󠀀"
+        },
+        {
+            "name": ".forsenespam",
+            "func": "forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE forsenE 󠀀"
+        },
+        {
+            "name": ".cd",
+            "func": "{1+} forsenCD"
+        },
+        {
+            "name": ".scoot",
+            "func": "forsenScoots TeaTime {1+}"
+        },
+        {
+            "name": ".ok",
+            "func": "forsenOkay {1+}"
+        },
+        {
+            "name": ".f",
+            "func": "FeelsGoodMan Clap {1+}"
+        },
+        {
+            "name": ".tf",
+            "func": ":tf: {1+}"
+        },
+        {
+            "name": ".based",
+            "func": "forsenBased TeaTime {1+}"
+        },
+        {
+            "name": ".wtf",
+            "func": "forsenWTF {1+}"
+        },
+        {
+            "name": ".yo",
+            "func": "Pepege 📣 YO Pepege 📣 YO Pepege 📣 YO Pepege 📣 YO Pepege 📣 YO Pepege 📣 YO Pepege 📣 YO Pepege 📣 YO Pepege 📣 YO"
+        },
+        {
+            "name": ".sus",
+            "func": "ﾟ⠀*⠀ ｡⠀ ⠀ ⠀⠀⠀ ⠀⠀ﾟ⠀｡ ⠀ ⠀⠀ ☆⠀ ⠀⠀⠀⠀⠀⠀ ･ﾟ⠀ ⠀ ⠀ ★⠀ ｡･⠀⠀⠀ﾟ⠀⠀｡⠀ ⠀ ★⠀ ⠀ ･･⠀⠀ Forsen was the impostor ⠀ amongE ⠀ ﾟ⠀ ⠀ ⠀ *⠀ﾟ⠀⠀⠀⠀ ｡･⠀ ⠀ ⠀★⠀ ｡⠀⠀⠀⠀⠀ ∴⠀ ｡ ⠀ ∴⠀⠀ ｡⠀ ⠀ 󠀀"
+        },
+        {
+            "name": "om",
+            "func": "OMEGALUL {1+}"
+        },
+        {
+            "name": ".forsenlul",
+            "func": "forsenLUL 👇 ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ forsenKek 👉 xqcCry 👈 forsenHead ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ 👆 forsenJoy"
+        },
+        {
+            "name": ".bttv",
+            "func": "ZULUL ZULUL YEAH BUT ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ZULUL YEAHBUTBTTV ZULUL BTTV IS LIKE⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀⠀⠀ ZULUL ZULUL A 3RD PARTY THING ⁭"
+        },
+        {
+            "name": ".explain",
+            "func": "forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow forsenExplainingHow 󠀀"
+        },
+        {
+            "name": ".clasico",
+            "func": "CLÁSICO LULW"
+        },
+        {
+            "name": ".ence",
+            "func": "forsenPls Pepege forsenPls Pepege forsenPls Pepege forsenPls Pepege forsenPls Pepege forsenPls Pepege forsenPls Pepege forsenPls Pepege forsenPls Pepege forsenPls Pepege forsenPls Pepege forsenPls Pepege forsenPls Pepege forsenPls Pepege forsenPls Pepege forsenPls Pepege"
+        },
+        {
+            "name": ".ed",
+            "func": "/w Supibot $remindprivate  j0yeg in 2h heyimEars"
+        },
+        {
+            "name": ".hw",
+            "func": "/w Supibot $remindprivate  j0yeg in 20m forsenPuke5 💢"
+        },
+        {
+            "name": ".brainpower",
+            "func": "O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA forsenPls"
+        },
+        {
+            "name": ".aim",
+            "func": "ppBounce ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ppHopper ppHop ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ppBounce forsenGaGun ppHopper ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀⠀ ⠀ ⠀ ppHopper ppBounce ppHop ppHopper 󠀀"
+        },
+        {
+            "name": ".g",
+            "func": "gachiGASM {1+}"
+        },
+        {
+            "name": ".t",
+            "func": "{1+} forsenT"
+        },
+        {
+            "name": ".tru",
+            "func": "TRUE LULE"
+        },
+        {
+            "name": ".party",
+            "func": "forsenDiscoSnake forsenDiscoSnake forsenDiscoSnake forsenDiscoSnake forsenParty forsenParty forsenParty forsenParty forsenDiscoSnake forsenDiscoSnake forsenDiscoSnake forsenDiscoSnake forsenParty forsenParty forsenParty forsenParty forsenDiscoSnake forsenDiscoSnake forsenDiscoSnake forsenDiscoSnake forsenParty forsenParty forsenParty forsenParty forsenDiscoSnake forsenDiscoSnake forsenDiscoSnake forsenDiscoSnake forsenParty forsenParty forsenParty forsenParty 󠀀 󠀀 󠀀"
+        },
+        {
+            "name": ".awp",
+            "func": "ForsenNotLookingAtYou ︻デ═一 {1+}"
+        },
+        {
+            "name": ".e",
+            "func": "{1+} forsenE"
+        },
+        {
+            "name": ".list",
+            "func": "gachiPRIDE @fandis_, @h_h410, @SrCookieMonstr, @Tastiic, @calavente, @Desaster90, @schaboi, @chunchuny, @TKsaysHowdy, @jorlandoh, @raulandre1, @nozotojo1, @ConoCello, @okaybuddyokay, @frozengreenmion, @rnx_56777, @PePeGa2281488, @ConoCello, @feral334, @hunchbackposture, @telvann, @Iadder_, @XenoplopQB, @racsowo, @MustiRaikkonen, @WhyZedd__, @mizakhell, @KK4RI, @stinkydinky, @CeeVeePaste, @psycho__steve, @wolfenk1ng, @J0yeg"
+        },
+        {
+            "name": ".l",
+            "func": "pepeLaugh {1+}"
+        },
+        {
+            "name": ".cancer",
+            "func": "forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2 forsenEmote2"
+        },
+        {
+            "name": ".cancer2",
+            "func": "/me ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ FeelsGoodMan ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ FeelsGoodMan ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ FeelsGoodMan 󠀀"
+        },
+        {
+            "name": ".s",
+            "func": "monkaS {1+}"
+        },
+        {
+            "name": ".jam",
+            "func": "forsenJAM {1+}"
+        },
+        {
+            "name": ".classic",
+            "func": "LULE CLASSIC"
+        },
+        {
+            "name": ".shungite",
+            "func": "🛰 ️ ) ) ) RarePepe doctorDance RarePepe ( ( ( 📻 ⣴⠛⠇⢸⡇⠀⣿⠀⣿⠀⢰⣷⢰⣿⡄⢸⡇⣠⡾⠛⠷⢰⡇⠛⢻⡟⠃⣿⠛⠓ ⠙⢷⣦⢸⡷⠶⣿⠀⣿⠀⢸⣿⢸⡏⢿⣸⡇⣿⠀⠶⣶⢸⡇⠀⢸⡇⠀⣿⠶⠆ ⢦⣴⠟⢸⡇⠀⣿⠀⠻⣦⡼⠇⢸⡇⠘⢿⠇⠹⢷⣤⡿⠸⡇⠀⢸⡇⠀⣿⣤⣤"
+        },
+        {
+            "name": ".trivia2",
+            "func": "`customtrivia3 start 50 include=[Astronomy,Computer Science, Counter-Strike,Emote Association,Emotes,General Knowledge,Math,Maths,Minecraft]"
+        },
+        {
+            "name": ".trivia",
+            "func": "`customtrivia3 start 50 exclude=[Anime,Hentai,Weeb,Manga,D%20DansGame%20TA,AdmiralBulldog,Star%20Wars,Video%20Games,Star%20Trek,K-pop,Gender]"
+        },
+        {
+            "name": ".forsenmagic",
+            "func": "forsenX forsenPosture1 forsen1 forsen2 forsenPosture1 forsenWhip ⠀⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀⠀ PowerUpL forsenPosture1 forsen1 forsen2 forsenPosture1 forsenKnife ⠀⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ forsenPosture forsenPosture1 forsen3 forsen4 forsenPosture1 forsenGun ⠀"
+        },
+        {
+            "name": ".hug",
+            "func": "{1}, 🫂"
+        },
+        {
+            "name": ".timewizard",
+            "func": "gachiPRIDE AH gachiPRIDE UH gachiPRIDE THE gachiPRIDE TIME gachiPRIDE WIZARD gachiPRIDE OH gachiPRIDE AH gachiPRIDE UH gachiPRIDE THE gachiPRIDE TIME gachiPRIDE WIZARD gachiPRIDE"
+        },
+        {
+            "name": ".rain",
+            "func": "ヽヽ｀ヽ｀、ヽヽ｀ヽ｀、ヽヽ｀ヽ、ヽヽ｀ヽ｀、ヽヽ｀ヽ｀、｀、ヽヽ｀ヽ｀、ヽヽ｀ヽ｀、ヽヽ｀ヽ｀、ヽヽ｀ヽ｀、ヽヽ｀ヽ｀、ヽヽ｀ヽ｀、ヽヽ FeelsBadMan ☂"
+        },
+        {
+            "name": "z",
+            "func": "{1+} ZULUL"
+        },
+        {
+            "name": ".cmonman",
+            "func": "/me HandsUp CMON MAN"
+        },
+        {
+            "name": ".bed",
+            "func": "ppBounce ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀⠀⠀ 🛏 ️"
+        },
+        {
+            "name": ".scrollingup",
+            "func": "forsenMODS uh ⠀⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ҉ forsenMODS ҉ forsenMODS oh⠀⠀⠀⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ҉ forsenMODS ҉ forsenMODS ҉ forsenMODS scrolling ⠀⠀⠀ ⠀⠀⠀⠀ ⠀ ⠀⠀ ⠀⠀⠀⠀⠀ ҉ forsenMODS ҉ forsenMODS ҉ forsenMODS forsenMODS up 󠀀"
+        },
+        {
+            "name": ".dankingup",
+            "func": "FeelsDankMan ho ⠀⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀  ⠀⠀ ⠀ ҉ FeelsDankMan ҉ FeelsDankMan ho⠀⠀⠀⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ҉ FeelsDankMan ҉ FeelsDankMan ҉ FeelsDankMan danking up⠀⠀ 󠀀"
+        },
+        {
+            "name": ".lagthechat",
+            "func": "forsenDisco LÅG forsenDisco THE forsenDisco CHAT forsenDisco LÅG forsenDisco THE forsenDisco CHAT forsenDisco LÅG forsenDisco THE forsenDisco CHAT forsenDisco LÅG forsenDisco THE forsenDisco CHAT"
+        },
+        {
+            "name": ".ym",
+            "func": "YOURM0M"
+        },
+        {
+            "name": ".relax",
+            "func": "forsenW {1+}"
+        },
+        {
+            "name": ".clickem",
+            "func": "🔗 👈 MegaLUL CLICK EM FORS 🔗 👈 MegaLUL CLICK EM FORS 🔗 👈 MegaLUL CLICK EM FORS 🔗 👈 MegaLUL CLICK EM FORS 🔗 👈 MegaLUL CLICK EM FORS"
+        },
+        {
+            "name": ".byechat",
+            "func": "⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀ ⠀ ⠀⠀ ⠀ ⠀⠀⎝ Okayge BYE CHAT ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀ ⠀⠀ ⠀⠀ ⠀ ⠀⠀⠀⠀⠀ ⠀┬─┬ 󠀀"
+        },
+        {
+            "name": ".umad",
+            "func": ":tf: u mad?"
+        },
+        {
+            "name": ".dankwave",
+            "func": "/me FeelsDankMan PowerUpR DANK WAVE▂▃▄▅▆▇██▇▆▅▄▃▂▂▃▄▅▆▇██▇▆▅▄▃▂▂▃▄▅▆▇██▇▆▅▄▃▂▂▃▄▅▆▇██▇▆▅▄▃▂▂▃▄▅▆▇██▇▆▅▄▃▂"
+        },
+        {
+            "name": ".test",
+            "func": "KKaper test successful KKaper"
+        },
+        {
+            "name": ".aroundtheworld",
+            "func": "AlienPls AlienPls AROUND ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ AlienPls 🌐 AlienPls THE WORLD ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀⠀⠀⠀⠀ AlienPls AlienPls 󠀀"
+        },
+        {
+            "name": ".peperip",
+            "func": "⣿⣿⣿⡇⠄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⡇⠄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⡇⠄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⡇⠄⣿⣿⣿⡿⠟⠋⣉⣉⣉⡙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⠃⠄⠹⠟⣡⣶⡿⢟⣛⣛⡻⢿⣦⣩⣤⣤⣤⣬⡉⢻⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⠄⢀⢤⣾⣿⣿⣿⣿⡿⠿⠿⠿⢮⡃⣛⣛⡻⠿⢿⠈⣿⣿⣿⣿⣿⣿⣿ ⣿⡟⢡⣴⣯⣿⣿⣿⣉⠤⣤⣭⣶⣶⣶⣮⣔⡈⠛⠛⠛⢓⠦⠈⢻⣿⣿⣿⣿⣿ ⠏⣠⣿⣿⣿⣿⣿⣿⣿⣯⡪⢛⠿⢿⣿⣿⣿⡿⣼⣿⣿⣿⣶⣮⣄⠙⣿⣿⣿⣿ ⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⡭⠴⣶⣶⣽⣽⣛⡿⠿⠿⠿⠿⠇⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣝⣛⢛⡛⢋⣥⣴⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⢿⠱⣿⣿⣛⠾⣭⣛⡿⢿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿⣿⣿⣿⣿⣿ ⠑⠽⡻⢿⣿⣮⣽⣷⣶⣯⣽⣳⠮⣽⣟⣲⠯⢭⣿⣛⣛⣿⡇⢸⣿⣿⣿⣿⣿⣿ ⠄⠄⠈⠑⠊⠉⠟⣻⠿⣿⣿⣿⣿⣷⣾⣭⣿⣛⠷⠶⠶⠂⣴⣿⣿⣿⣿⣿⣿⣿ ⠄⠄⠄⠄⠄⠄⠄⠄⠁⠙⠒⠙⠯⠍⠙⢉⣉⣡⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿"
+        },
+        {
+            "name": ".arch",
+            "func": "⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢃⣾⣷⡜⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠴⣿⣿⣿⣿⣮⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣡⣾⣷⣶⣿⣿⣿⣿⣿⣎⠻⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⠟⢡⣾⣿⣿⣿⠿⠛⠛⠿⣿⣿⣿⣷⡌⠻⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⠟⣩⣴⣿⣿⣿⣿⠅⣾⣿⣿⣷⠈⣿⣿⣿⣿⡧⢌⠻⣿⣿⣿⣿ ⣿⣿⣿⠟⣡⣾⣿⠿⠿⣛⣛⣻⣥⣿⣿⣿⣿⣤⣟⣛⣛⠿⠿⣷⣦⣝⢻⣿⣿ ⣿⣿⣏⣬⣭⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣭⣅⣹⣿ ⣿⠉⣿⣿⠋⣿⠉⣿⠋⠛⣿⠉⣉⣿⣿⡿⠉⣿⡏⢉⠛⣿⠛⠙⣿⠉⡏⢹⣿ ⣿⠄⣿⣿⡀⣿⠄⣿⣄⠙⣿⠄⣭⣿⣿⠇⠄⢹⡇⠈⢠⡇⢸⣿⣿⠄⡅⢸⣿ ⣿⣤⣿⣿⣧⣤⣼⣷⣤⣤⣿⣤⣭⣽⣿⣤⣷⣬⣧⣼⣤⣿⣤⣤⣾⣤⣧⣼⣿ ⣿⣿⣿⣿⣿⣿⣿⡏⢉⠛⢻⣏⡉⢉⣉⣿⠉⡿⠉⣿⠉⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⡇⢨⡀⢺⣿⡇⢸⣿⣿⡄⠁⡀⠄⢸⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣧⣬⣤⣼⣿⣧⣼⣿⣿⣧⣤⣷⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿"
+        },
+        {
+            "name": ".letsgoforsen",
+            "func": "/me forsenE LETS forsenE GO forsenE FORSEN forsenE LETS forsenE GO forsenE FORSEN forsenE LETS forsenE GO forsenE FORSEN forsenE LETS forsenE GO forsenE FORSEN"
+        },
+        {
+            "name": ".chinese",
+            "func": "六四天安門事件 天安門大屠殺 The Tiananmen Square protests of 1989 PagMan 人權 Human Rights PagMan 民運 Democratization PagMan 自由 Freedom PagMan 多黨制 Multi-party system PagMan"
+        },
+        {
+            "name": ".overconfidence",
+            "func": "( ͠° ͟ʖ ͡°) OVERCONFIDENCE IS A SLOW AND INSIDIOUS KILLER ( ͠° ͟ʖ ͡°)"
+        },
+        {
+            "name": ".alienpls2",
+            "func": "MegaLUL ⠀ ﾟ⠀*⠀ ｡⠀ ⠀ﾟ⠀｡ ⠀ ⠀⠀ ☆⠀ ⠀★⠀⠀⠀⠀⠀ ･ﾟ⠀ ⠀ ⠀ ★⠀ ｡･⠀⠀⠀ﾟ⠀⠀｡⠀ ⠀⠀⠀ ⠀ ★⠀ ⠀ ･･⠀⠀ ⠀ ∴⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ﾟ⠀ ⠀ ⠀ *⠀ﾟ⠀⠀⠀★⠀⠀⠀ ｡･⠀ ⠀⠀⠀⠀⠀⠀ ᛁ ᚳᚪᚾᛏ ᛒᛖᛚᛁᛖVᛖ ᛗᚣ ᛖᚣᛖᛋ 🔭 AlienPls"
+        },
+        {
+            "name": ".insane",
+            "func": "/me forsenInsane ꊰꄲꋪꇙꏂꋊ ꒐ꂵ ꊰꋪꄲꂵ ꓄ꁝꏂ ꋪꄲꄲꂵ ꒯ꄲꅐꋊ ꓄ꁝꏂ ꁝꋬ꒒꒒. ꓄ꁝꏂ ꋊ꒤ꋪꇙꏂꇙ ꋬꋪꏂ ꒯ꄲ꒐ꋊꍌ ꓄ꁝꏂ ꉔꁝꏂꉔꀘꇙ, ꆰ꒤꒐ꉔꀘ ꉣꋪꏂ꓄ꏂꋊ꒯ ꓄ꄲ ꃳꏂ ꋬꇙ꒒ꏂꏂꉣ ꇙꄲ ꓄ꁝꏂꌦ ꒯ꄲꋊ꓄ ꉣ꒤ꋊ꒐ꇙꁝ ꒤ꇙ ꋬ꒒꒒"
+        },
+        {
+            "name": ".asciimods",
+            "func": "⡏⠄⣀⣤⣤⡴⢶⣶⣶⣿⠿⢷⣦⠄⠄⡟⢻⠛⣿⠟⠛⠛⣿⠛⠛⢿⣿⠛⠛⣿ ⡇⣶⣿⣷⣶⣶⡶⠿⠗⢶⣤⡤⠒⠄⠄⡇⠈⠄⣿⠄⣿⠆⢸⠄⡇⢸⣿⣄⡉⢻ ⠿⠞⠿⣿⣿⣯⣭⣭⣩⣭⠿⠛⢉⣴⣾⣧⣷⣧⣿⣦⣤⣤⣿⣤⣤⣾⣿⣤⣤⣾"
+        },
+        {
+            "name": "m",
+            "func": "forsenMODS {1+}"
+        },
+        {
+            "name": ".ex",
+            "func": "forsenExplainingHow {1+}"
+        },
+        {
+            "name": ".slickdaddy",
+            "func": "⣿⣿⡷⡂SLICK⠄⠸⣿⣿⣿⣿⣿⠟⠛⠉⠉⠙⠛⢿⣿⡇⠄⠄⢀⣿⣿⣿⣿ ⣶⣶⠃⠄DADDY⠄⣾⣿⣿⡿⠁⣀⣀⣤⣤⣤⣄⢈⣿⡇⠄⠄⢸⣿⣿⣿⣿ ⣿⣯⠄⠄CLUB⠄⠄⢻⣿⣿⣷⣶⣿⣿⣥⣬⣿⣿⣟⣿⠃⠄⠨⠺⢿⣿⣿⣿"
+        },
+        {
+            "name": ".oh",
+            "func": "HahaPoint OH❗"
+        },
+        {
+            "name": ".asciiracc",
+            "func": "RaccAttack TeaTime  ⠀⠀⠀⠀⠀⠀⡶⠶⠶⣦⠀⠀⢰⣦⠀⠀⢀⡴⠶⢦⡀⠀⣤⠶⠶⣄⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⡷⠶⣶⠋⠀⢠⣇⣈⣧⠀⣿⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠇⠀⠀⠹⠆⠏⠀⠀⠈⠇⠈⠳⠶⠞⠁⠀⠛⠶⠶⠋⠀⠀⠀⠀⠀⠀ 󠀀 󠀀"
+        },
+        {
+            "name": ".trumpet",
+            "func": "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ forsenJam TrumpetTime 🎶 {1+}"
+        },
+        {
+            "name": ".piano",
+            "func": "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ forsenJam PianoTime 🎶 {1+}"
+        },
+        {
+            "name": ".doc",
+            "func": "YEAHBUTBTTV 💢 {1+}"
+        },
+        {
+            "name": ".football",
+            "func": "Hey can we get these football sucker kids out of my fucking chat? Don't pretend you like this shit, no one likes this fucking shit, fucking christ, absolute trash. forsenMODS"
+        },
+        {
+            "name": ".italian",
+            "func": "NaM 👌 DON'T NaM 👌 DO NaM 👌 THE NaM 👌 ITALIAN NaM 👌 HAND NaM 👌 GESTURE NaM 👌 EMOJI NaM 👌 IF NaM 👌 YOU'RE NaM 👌 NOT NaM 👌 ITALIAN NaM 👌 OR NaM 👌 IN NaM 👌 ITALY NaM 👌 OR NaM 👌 AT NaM 👌 LEAST NaM 👌 LITTLE NaM 👌 ITALY NaM 👌 WITH NaM 👌 AN NaM 👌 ACTUAL NaM 👌 ITALIAN NaM 👌 DOING NaM 👌 THE NaM 👌 HAND NaM 👌 GESTURE NaM 👌 IN NaM 👌 REAL NaM 👌 LIFE NaM 👌 OR NaM 👌 UNLESS NaM 👌 YOU'RE NaM 👌 TYPING NaM 👌 IN NaM 👌 ITALIAN NaM 👌 IN NaM 👌 ITALICS NaM 👌 MAMA NaM 👌 MIA! NaM 👌 GRAZIE NaM 👌 ARRIVEDERCI NaM 👌"
+        },
+        {
+            "name": ".waves",
+            "func": "/me forsenJAM waves keep on washing over me forsenJAM swim out swim out forsenJAM glide into the open forsenJAM cool are the currents of the sea forsenJAM swim out swim out forsenJAM deep into the ocean forsenJAM"
+        },
+        {
+            "name": ".hop",
+            "func": "ppHop ppBounce ppHopper ppHop ppBounce ppHopper ppHop ppBounce ppHopper ppHop ppBounce ppHopper ppHop ppBounce ppHopper ppHop ppBounce ppHopper ppHop ppBounce ppHopper ppHop ppBounce ppHopper"
+        },
+        {
+            "name": ".weebs",
+            "func": "WHENEVER FeelsGoodMan YOU FeelsGoodMan COPY FeelsGoodMan AND FeelsGoodMan PASTE FeelsGoodMan THIS FeelsGoodMan MESSAGE FeelsGoodMan A FeelsGoodMan DIES FeelsGoodMan IN FeelsGoodMan ITS FeelsGoodMan SLEEP"
+        },
+        {
+            "name": ".$",
+            "func": "/w supibot ${1+}"
+        },
+        {
+            "name": ".juicer",
+            "func": "streamdeck, analyzer, fuckin... moderator stance, sound filter, six monitors, pedals, drums, A GAMING GUITAR, CONTROLLERS, SIX CONSOLES, TEN COMPUTERS, BUNCH A FUCKING WIRES, SOUND PADS, SPEAKERS, ANTENNAE, SATELLITE, DOG, DOG CAM, CAT CAM, CAT TREE, CAT THIS, and a buncha dogshit dud"
+        },
+        {
+            "name": ".waytoodank",
+            "func": "⠀ ⠀ ⠀ WAYTOODANK ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ WAYTOODANK ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ WAYTOODANK ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ WAYTOODANK ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ WAYTOODANK ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ WAYTOODANK ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ WAYTOODANK ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ WAYTOODANK"
+        },
+        {
+            "name": ".doc1",
+            "func": "let's talk about about me, let's talk about the 6'8 frame the 37 in verticle leap...the black steel that drapes down my back aka the bullet proof mullet, the google prototype scopes with built in LCD LED 1080p 3D sony technology. The Ethiopian poisonous catapillar aka SLICK DADDY. lets talk about the cabinets right behind me that go 40ft deep that house the other 95% of my trophies, the awards, the certificates, all claiming first place forsenCD"
+        },
+        {
+            "name": ".waves",
+            "func": "forsenJAM waves keep on washing over me forsenJAM swim out swim out forsenJAM glide into the open forsenJAM cool are the currents of the sea forsenJAM swim out swim out forsenJAM deep into the ocean forsenJAM"
+        },
+        {
+            "name": ".fors",
+            "func": "⠀⠀⠀⠀⠀⠀⣶⠶⠶⠶⠀⣤⠶⠶⣄⠀⢰⠶⠶⠶⣄⠀⣤⠶⠶⡄⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⣿⠶⠶⠀⢾⠀⠀⠀⠀⡇⢸⠶⠶⣞⠃⠀⠙⠻⢶⣄⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠿⠀⠀⠀⠀⠛⠶⠶⠋⠀⠸⠀⠀⠀⠿⠀⠛⠶⠶⠋⠀⠀⠀ LUL"
+        },
+        {
+            "name": ".nocock",
+            "func": "📜 ✍ ️ Sadge 𝓜𝔂 𝓭𝓮𝓪𝓻𝓮𝓼𝓽 𝓫𝓻𝓸𝓽𝓱𝓮𝓻, 𝓘 𝔀𝓻𝓲𝓽𝓮 𝔂𝓸𝓾 𝓲𝓷 𝓭𝓮𝓮𝓹 𝓶𝓮𝓵𝓪𝓷𝓬𝓱𝓸𝓵𝔂. 𝓘𝓽 𝓪𝓹𝓹𝓮𝓪𝓻𝓼 𝓽𝓸 𝓶𝓮 𝓽𝓱𝓪𝓽 𝓽𝓱𝓮𝓻𝓮 𝓲𝓼𝓷'𝓽 𝓪𝓷𝔂 𝓬𝓸𝓬𝓴 𝓵𝓮𝓯𝓽"
+        },
+        {
+            "name": ".okayeg",
+            "func": "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⣿⡟⣰⡇⡀⣷⣄⢢⡀⠀⣠⣤⣶⣶⣶⣦⡀⠀ ⠀⠀⠀⠀⠀⠀⠀⣠⣶⣿⣿⣿⣿⡅⠹⡇⢠⣿⣿⣷⢱⡄⢿⣿⣿⠀⣿⣿⣷⠀ ⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣿⣶⣤⡈⠙⠛⠿⠟⣸⣿⣌⢻⣟⠀⣿⣿⡿"
+        },
+        {
+            "name": ".b",
+            "func": "FeelsBadMan {1+}"
+        },
+        {
+            "name": ".megalul",
+            "func": "/me PowerUpL MEGALUL PowerUpR इन निर्दोष लोगों की आत्माओं को ले लो और उन्हें दर्द और नफरत के साथ चिल्लाती आत्माओं में बदल दें"
+        },
+        {
+            "name": ".megalul2",
+            "func": "/me amiloEye ⌰⋔⏃⍜⍜ ☌⍜⋏⋏⏃ ⎅⟒⌇⏁⍀ amiloEye ⌰⋔⏃⍜⍜ ☌⍜⋏⋏⏃ ⎅⟒⌇⏁⍀ amiloEye ⌰⋔⏃⍜⍜ ☌⍜⋏⋏⏃ ⎅⟒⌇⏁⍀ amiloEye ⌰⋔⏃⍜⍜ ☌⍜⋏⋏⏃ ⎅⟒⌇⏁⍀ amiloEye ⌰⋔⏃⍜⍜ ☌⍜⋏⋏⏃ ⎅⟒⌇⏁⍀"
+        },
+        {
+            "name": ".wind",
+            "func": "forsenGa 💨 🎙"
+        },
+        {
+            "name": ".saynurse",
+            "func": "LULW ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ✅ 🎁 TwitchVotes Nurse: {1+}"
+        },
+        {
+            "name": ".sayforsen",
+            "func": "LULW ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ✅ 🎁 TwitchVotes forsen: {1+}"
+        },
+        {
+            "name": ".bajbaj",
+            "func": "baj baj 👋 forsenE"
+        },
+        {
+            "name": ".cock",
+            "func": "⢠⣶⠿⠿⣷⡄⠈⣠⣶⠿⢿⣶⡄⠉⣡⣶⠿⠿⣶⡄⠄⣿⡇⢀⣾⡿⠃ ⣿⣏⠄⠄⠄⠄⢰⣿⡇⢀⠄⣿⣿⠄⣿⡏⠄⠄⠄⠄⠄⣿⣿⣿⣿⡀ ⠹⣿⣄⣠⣶⡆⠄⢿⣷⣀⣠⣿⡟⠄⢻⣷⣄⣠⣶⠆⠄⣿⡏⠈⢿⣷ Okayge"
+        },
+        {
+            "name": ".asciiapu",
+            "func": "⠀⠀⠀⠀⠀⠀⠀⢀⣤⣴⣶⣶⣦⣤⡀⠀⢀⣀⣠⣤⣤⣄⣄⣀⠀⡀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣦⡻⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⣿⣿⣋⣭⣥⣤⣤⣬⣭⣭⣥⡨⣭⣥⣤⣤⣦⣴⣶⣶⣶⣆⠀⠀ ⠀⠀⠀⢀⣴⣸⣿⣟⡻⣯⣽⣶⣶⣶⠶⠿⢭⣭⣈⢿⠿⣛⣛⠭⢭⣭⣉⣉⣡⠄ ⠀⠀⢀⣾⣿⣿⣿⣿⣿⣮⣻⠿⡏⠀⠂⠀⡀⢹⣿⣶⣿⣷⣾⣿⡟⠩⠀⠙⣿⡷ ⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⡿⠿⠶⠦⠤⠤⠤⢌⣨⣽⣻⠿⠿⢟⢀⣀⣀⡁⠏⠐ ⠀⢄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠯⠭⠶⠿⢟⠛⠛⢿⣿⣦⣒⣒⣪⠄⠀ ⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⢰⣿⣿⣛⣛⣛⡯⠵⣖⣛⣭⣭⣤⢖⠒⠀⠀⠀⠀ ⠀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣭⣭⣭⣵⣶⣾⣿⣿⣿⣿⠿⠋⠀⠀⠀⠀⠀⠀ ⢀⣠⣦⡭⣙⣛⡻⠿⠿⣿⣿⣿⣿⠿⠿⠿⠿⠿⢟⣛⢍⣶⣦⣄⢀⠀⠀⠀⠀⠀ ⢰⣿⣿⣿⣷⣿⣭⣿⣓⣒⣶⣶⣶⣶⣶⣟⣛⣿⣭⣾⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀ ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀ ⠘⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠀⠀⠀⠀"
+        },
+        {
+            "name": ".asciiharry",
+            "func": "⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⣉⣠⣤⣤⣴⣦⣤⡈⠛⢿⣿⣿⣿⣿ ⣿⣿⠋⢉⣉⣉⡉⠛⠛⠟⠉⣠⣄⣚⡛⠿⢿⣿⣿⣿⣿⡛⢿⣧⠄⢿⣿⣿⣿ ⣿⣿⣄⠘⢿⣿⣿⣿⣿⣶⣶⣦⣬⣍⣙⠛⢶⣾⣿⣿⣿⠇⠈⢻⠄⢸⣿⣿⣿ ⣿⣿⣿⣶⣄⣉⠛⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⡛⠂⠄⣦⣤⣾⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⠛⠒⠂⠄⠄⠈⣉⣉⣉⣙⣛⣛⠛⠿⠿⠷⣦⣄⡈⠛⢿⣿⣿ ⣿⣿⣿⣿⣿⣿⠄⠄⢀⣶⣿⣿⣿⣿⣿⣯⣿⣿⣿⣿⣷⣶⠄⢀⣈⠄⠄⣿⣿ ⣿⣿⣿⣿⣿⣿⠄⠄⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢏⣴⣾⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⠄⢀⣾⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⣧⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⠄⠄⠻⢿⣿⡟⠋⠉⡁⠄⢉⡢⠿⠿⣫⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⠄⠄⠄⠄⢻⣿⣦⣬⣉⣛⣿⠛⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⠄⠄⠄⠄⠸⣿⣛⣻⣿⡟⠁⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⡟⢻⢻⡿⢻⡟⠛⢿⠛⠻⡟⠿⢻⣿⠛⠻⡿⠛⢿⠛⠛⠛⠛⢻⠛⣿⠛⡟⣿ ⡇⢈⢸⠇⠈⡇⠄⣸⠄⢀⣷⠄⣾⣿⠄⣀⡇⣶⢸⡇⢸⣿⢸⡿⠄⢹⠄⡁⣿ ⣧⣼⣼⣤⣧⣥⣤⣼⣤⣤⣿⣤⣿⣿⣤⣿⣧⣀⣼⣧⣼⣿⣼⣧⣼⣼⣤⣧⣿"
+        },
+        {
+            "name": ".trihard",
+            "func": "TriHard TeaTime ⣿⣉⠉⣉⣿⡏⢉⠛⣿⡏⢹⡏⢹⡟⢹⣿⡟⠉⣿⣿⠉⡙⠛⣿⠉⡙⠻⣿⣿ ⣿⣿⠄⣿⣿⡇⠈⠁⣿⡇⢸⡇⢨⡅⢸⣿⠁⠄⢸⣿⠄⡉⢠⣿⠄⣿⠄⣿⣿ ⣿⣿⣤⣿⣿⣧⣼⣤⣽⣧⣼⣧⣼⣧⣼⣯⣴⣿⣤⣿⣤⣷⣤⣿⣤⣥⣴⣿⣿"
+        },
+        {
+            "name": ".horse",
+            "func": "⣿⣿⣿⣿⡿⠙⠙⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠙⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣧⣤⣶⣿⣧⠀⠀⠀⠀⠈⠉⠛⠉⠉⠁⠀⠉⠛⠻⣿⣿⣿⣿⣿⣿ 󠀀"
+        },
+        {
+            "name": ".asciiperma",
+            "func": "⣿⣿⡏⣉⣉⡉⢻⡏⢉⣉⣉⣉⣿⢉⣉⣉⠙⣿⡏⠙⣿⣿⡏⠉⣿⣿⠋⢹⣿⣿⣿⣿ ⣿⣿⡇⠉⠉⣉⣴⡇⢈⣉⣉⣹⣿⢈⣉⠉⣤⣿⡇⣷⢹⡿⣸⠀⣿⠃⠿⠇⢹⣿⣿⣿ ⣿⣿⣇⣿⣿⣿⣿⣇⣈⣉⣉⣉⣿⣸⣿⣿⣆⣹⣇⣿⣇⣰⣿⣀⣃⣾⣿⣿⣆⣹⣿⣿ 󠀀"
+        },
+        {
+            "name": ".asciidank",
+            "func": "/me FeelsDankMan TeaTime ⠀⠀⠀⠀⠀⢰⠶⠶⢶⣄⠀⠀⣰⣦⠀⠀⣶⣄⠀⠀⣶⠀⡆⠀⢀⡶⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⢸⠀⠀⠀⣸⠀⢰⣃⣈⣧⠀⣿⠀⢷⠀⣿⠀⣷⠻⣄⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠸⠶⠶⠾⠃⠠⠏⠀⠀⠈⠧⠿⠀⠀⠙⠿⠀⠇⠀⠀⠿⠄"
+        },
+        {
+            "name": ".asciipag",
+            "func": "PagMan 🤘 ⣿⣯⣷⢈⣹⣿⠿⡟⢛⡛⢿⡟⠛⣿⣿⡟⠛⣿⣿⠟⠻⣿⡟⢛⡛⢿⡿⢛⡛⢿ ⣉⣛⠛⠉⠁⠄⠄⡇⢈⣁⣼⠁⠇⠸⡿⠠⠇⢹⡟⠰⠆⢻⠄⢿⡉⢹⡀⢾⡉⢹ ⡿⠌⠛⠢⣄⣀⣠⣧⣼⣿⣧⣼⣿⣤⣧⣼⣿⣤⣥⣾⣧⣬⣷⣬⣥⣼⣷⣤⣤⣼"
+        },
+        {
+            "name": ".scrolling",
+            "func": "forsenMODS uh ⠀⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ҉ forsenMODS ҉ forsenMODS oh⠀⠀⠀⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ҉ forsenMODS ҉ forsenMODS ҉ forsenMODS scrolling ⠀⠀⠀ ⠀⠀⠀⠀ ⠀ ⠀⠀ ⠀⠀ ҉ forsenMODS ҉ forsenMODS ҉ forsenMODS forsenMODS up"
+        },
+        {
+            "name": ".hejda",
+            "func": "/me forsenPls HEJ forsenPls DÅ forsenPls PAPPA forsenPls HA forsenPls DET forsenPls BRA! forsenPls HEJ forsenPls DÅ forsenPls PAPPA forsenPls HA forsenPls DET forsenPls BRA! forsenPls"
+        },
+        {
+            "name": ".asciifdm",
+            "func": "/me ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⠀⠀⠀ ⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀ ⠀⠀⠀⠀⢘⣟⣛⣛⣛⣛⣛⣛⣿⣿⣟⢩⣭⣭⣭⣭⣭⣥⣴⣦⡀⠀ ⠀⠀⢀⣾⣼⣿⣏⣽⣷⣿⣿⠿⠿⠻⢿⣧⡽⠟⣋⣩⣭⣤⣤⣤⣤⣄ ⠀⢀⣾⣿⣿⣿⣿⣿⣯⣟⡇⠀⠁⠀⠀⡿⣿⣿⣿⣿⣿⠋⠀⢀⢹⡿ ⠀⣼⣿⣿⣿⣿⣿⣿⣿⣯⣭⣭⣭⡭⣍⣺⣷⡿⠭⠭⠥⠄⠀⠲⠊⠀ ⠀⣿⣿⣿⣿⣿⣿⣿⣿⢫⣵⠶⠮⠭⠭⠽⠖⠚⠛⢛⡋⠹⠟⠛⠁⠀ ⠀⢻⣿⣿⣿⣿⣿⣿⣿⣧⣭⣛⣛⣲⣤⣤⣤⣴⣶⠶⠋⠀⠀⠀⠀⠀ ⢀⣴⣍⠉⣛⣛⠻⠿⠿⠿⠿⠿⠿⠟⠛⣛⣋⣉⣴⣶⣄⠀⠀⠀⠀⠀ ⣾⣿⣿⣿⣷⣶⣭⣭⣭⣝⣛⣛⣿⣯⣭⣿⣾⣿⣿⣿⣿⣧⠀⠀⠀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇"
+        },
+        {
+            "name": ".asciisus",
+            "func": "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⣠⣤⣤⣶⣶⣶⣤⣤⣀⠑⠄⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⣾⣶⣽⣿⣿⣿⣿⣿⠿⣿⣿⣆⠀⡀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣋⠉⣍⣿⣿⡿⠉⠀⣤⣤⣄⡉⠀⠐⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⡀⢰⣿⣿⣿⣿⣿⣿⢡⣶⣶⣤⣉⠀⢙⣶⡄⢁⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⠟⠲⠏⢻⣿⣷⣶⣿⣿⡇⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⡿⠿⠁⡀⠀⠀⠀⢻⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣏⣀⣶⣾⣧⣄⠀⠀⠀⢻⣿⣿⣿⠇⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⠿⢿⣿⣿⣿⣷⣾⣿⣿⣿⣾⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⢰⣿⡿⢿⣿⣿⣿⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⣼⣿⣧⣴⣿⠿⠿⠛⠛⠛⠛⢉⣄⣩⣉⠻⠛⠁⠀⠀⠀⠀⠀ ⠀⠀⡀⠀⢀⡀⠀⣿⣿⣿⣿⠃⠐⠀⠀⠀⠀⠀⠀⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀ ⠀⠀⣠⣤⣤⣤⣾⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀ ⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⡿⠇⠀⠀⠀⠂⠀⢀⣰⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀ ⠀⠀⠀⠉⠙⠛⠉⠉⠉⠉⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠿⠿⠿⠿⠛⠋⠁"
+        },
+        {
+            "name": ".whosthatpokemon",
+            "func": "Who's that Pokémon? ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡃⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡅⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀ ⠀⠀⣀⣀⣀⣰⣿⣿⣿⣿⣿⣿⡟⠉⠉⠀⠈⠙⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀ ⢠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀ ⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢀⣠⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀ ⠀⠈⠻⢿⣿⣿⣿⡿⠿⠿⠟⠁⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⠿⢿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠁⠀⠀⠀⠀"
+        },
+        {
+            "name": ".gfa",
+            "func": "minust1Champ GFANMFSB&G"
+        },
+        {
+            "name": ".nam",
+            "func": "𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM 𒐫𒐫𒐫 NaM"
+        },
+        {
+            "name": ".weebs2",
+            "func": "You will never be Japanese, you will never find the love of your life in Japan, who looks like this and is a cutiepie Japanese girl. You will never be the protagonist in an anime, you will never have superpowers that will allow you to overpower your most greatest tribulations. You will always be a loser."
+        },
+        {
+            "name": ".birthday",
+            "func": "hey guys can anyone gift m e a sub ? that would be so awesome !!! its my birthday FeelsBirthdayMan !! <3 i have no friends but this community is my home <3"
+        },
+        {
+            "name": ".ahh",
+            "func": "/me gachiPRIDE AAAAAAAAAAAAAAAAAHHHHHHHH gachiPRIDE AAAAAAAAAAAAAAAAAHHHHHHHH gachiPRIDE AAAAAAAAAAAAAAAAAHHHHHHHH gachiPRIDE"
+        },
+        {
+            "name": ".weebs3",
+            "func": "billyReady GACHI ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀  billyReady billyReady THE⠀⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀  billyReady billyReady billyReady WEEBS⠀⠀⠀⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀  billyReady billyReady billyReady billyReady AWAY"
+        },
+        {
+            "name": ".batchest",
+            "func": "BatChest HEHEHEHE BatChest CHATIA ITS THE BATCHEST BatChest WHAT HAVE YOU COME INTO INDEED BatChest HEHEHEHE BatChest IM BATMAN BatChest WHATS GOING ON CHATIA BatChest HAPPY HALLOWEEN"
+        },
+        {
+            "name": ".dank2",
+            "func": "pajaWTF pajaSmush WAYTOODANK pajaAAAAAAAAAAA pajaWTF pajaSmush WAYTOODANK pajaAAAAAAAAAAA pajaWTF pajaSmush WAYTOODANK pajaAAAAAAAAAAA pajaWTF pajaSmush WAYTOODANK pajaAAAAAAAAAAA pajaWTF pajaSmush WAYTOODANK pajaAAAAAAAAAAA pajaWTF pajaSmush WAYTOODANK pajaAAAAAAAAAAA pajaWTF pajaSmush WAYTOODANK pajaAAAAAAAAAAA pajaWTF pajaSmush WAYTOODANK pajaAAAAAAAAAAA"
+        },
+        {
+            "name": ".f2",
+            "func": "FeelsGoodMan Clap FeelsGoodMan Clap FeelsGoodMan Clap FeelsGoodMan Clap FeelsGoodMan Clap FeelsGoodMan Clap FeelsGoodMan Clap FeelsGoodMan Clap FeelsGoodMan Clap FeelsGoodMan Clap FeelsGoodMan Clap FeelsGoodMan Clap FeelsGoodMan Clap FeelsGoodMan Clap FeelsGoodMan Clap FeelsGoodMan Clap 󠀀"
+        },
+        {
+            "name": ".dank3",
+            "func": "🔴 🟠 🟡 🟢 🔵 🟣 🟤 ⚫ ⚪ 🔴 🟠 🟡 🟢 🔵 🟣 🟤 ⚫ ⚪ 🔴 🟠 🟡 🟢 🔵 🟣 🟤 ⚫ ⚪ 🔴 🟠 🟡 🟢 🔵 🟣 🟤 ⚫ ⚪ 🔴 🟠 🟡 🟢 🔵 🟣 🟤 ⚫ ⚪ 🔴 🟠 🟡 🟢 🔵 🟣 🟤 ⚫ ⚪ 🔴 🟠 🟡 🟢 FeelsDankMan"
+        },
+        {
+            "name": ".flush",
+            "func": "flushE ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ 👉 👈 󠀀 {1+}"
+        },
+        {
+            "name": ".dankt",
+            "func": "FeelsDankMan ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼ TeaTime {1+}"
+        },
+        {
+            "name": ".despair",
+            "func": "📜 ✍🏻  forsenDespair 𝔗𝔥𝔢 𝔠𝔬𝔭𝔦𝔲𝔪 𝔰𝔲𝔭𝔭𝔩𝔶 𝔥𝔞𝔰 𝔡𝔢𝔭𝔩𝔢𝔱𝔢𝔡, 𝔗𝔥𝔢 𝔪𝔦𝔫𝔢 𝔥𝔞𝔰 𝔩𝔬𝔰𝔱 𝔞𝔩𝔩 𝔞𝔪𝔟𝔦𝔱𝔦𝔬𝔫. 𝔗𝔥𝔦𝔰 𝔦𝔰 𝔞 𝔠𝔯𝔶 𝔣𝔬𝔯 𝔥𝔢𝔩𝔭 𝔦𝔫 𝔱𝔦𝔪𝔢𝔰 𝔬𝔣 𝔫𝔢𝔢𝔡. ℑ𝔣 𝔞𝔫𝔶𝔬𝔫𝔢 𝔦𝔰 𝔬𝔲𝔱 𝔱𝔥𝔢𝔯𝔢, 𝔭𝔩𝔢𝔞𝔰𝔢 𝔥𝔢𝔩𝔭 𝔬𝔲𝔯 𝔡𝔞𝔪𝔫𝔢𝔡 𝔰𝔬𝔲𝔩𝔰..."
+        },
+        {
+            "name": ".prague",
+            "func": "forsenMODS I was yesterday in PRAGUE AND TALKED TO A FCKING ITALIAN BASTARD + I WAS DANCING IN THE MIDDLE OF 2 ASIAN CHICKS. HOW FUCKED UP AM I?!"
+        },
+        {
+            "name": ".kekw",
+            "func": "ΚEΚW {1+}"
+        },
+        {
+            "name": ".dictator",
+            "func": "You think you're the fun one, but I am the one moderating all the fucking boring shit, that's why Im forcing you to get creative. You dont know it yet but, I am the reason, the god, the dictator, besides, judge, jury and executioner of unfunny shit. I am the hero you need, but not the hero you deserve forsenE"
+        },
+        {
+            "name": ".messi",
+            "func": "ppL ᵐᵉˢˢᶦ ᶜʰᶦᵠᵘᶦᵗᵒ"
+        },
+        {
+            "name": ".bastards",
+            "func": "Alright, I've decided to bump your timeout to 3 days for the reason I've given, you think it's reasonable to DANCE IN THE MIDDLE OF 2 ASIAN CHICKS when you obviously TALKED TO A FCKING ITALIAN BASTARD. You think \"HOW FUCKED UP AM I?\" is a reasonable response, which means you realize you were yesterday in PRAGUE forsenMODS"
+        },
+        {
+            "name": ".clown",
+            "func": "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🎩 ⠀THE⠀BEST⠀CLOWN⠀⠀⠀ 🛡 ️ _ forsenGa _ 🥖 ⠀⠀⠀ ⠀⠀⠀⠀⠀⠀TWITCH⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ┃ ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀HAS⠀EVER⠀SEEN⠀⠀⠀⠀⠀⠀⠀⠀ OMEGALUL ."
+        },
+        {
+            "name": ".asciiswag",
+            "func": "⠄⠄⠄⠄⠄⠄⠄⢿⣿⣿⣿⣿⠟⠋⠉⠉⠹⣿⣷⡞⢤⣿⣿⣿⣿⣿⣿⣿⣿ ⠄⠄⠄⠄⣀⣀⣤⡆⠁⠄⠄⠈⣷⣤⣤⣤⣴⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿ ⠄⢠⣶⣿⣿⣿⣿⣿⣷⡀⢴⣾⡟⠋⠉⢉⣙⠻⠟⢁⠏⣾⣿⣿⣿⣿⣿⣿⣿"
+        },
+        {
+            "name": ".lolw",
+            "func": "https://i.ytimg.com/vi/9Pg2CDCm34w/maxresdefault.jpg"
+        },
+        {
+            "name": ".h",
+            "func": "forsenHead {1+}"
+        },
+        {
+            "name": ".power2",
+            "func": "/me gachiBASS O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA gachiBASS"
+        },
+        {
+            "name": ".click",
+            "func": "forsenGa 🖱 *click*"
+        },
+        {
+            "name": ".mustard",
+            "func": "Aww, mustard! Come on man, now don’t put no mustard on that, you need to put a little season on that thing! WHAT! Man come on get that pepper off there! Come on, somebody come get this man! Come on now, come on get that pepper of there, that’s just too much doggone pepper. I don’t wanna see this no more!"
+        },
+        {
+            "name": ".bedge",
+            "func": "⠀⠀⠀⠀⠀⢀⣀⣀⣤⣤⣤⣤⣤⣤⡤⠀⣠⣤⣤⣀⠀⠀⠀⠀⠀ \n⠀⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⡿⠛⣁⣀⠸⣿⣿⣿⣿⠇⠀⠀⠀⠀ \n⠀⠀⣾⣿⣿⣿⣿⣿⣿⠟⢋⣴⣾⣿⣿⣷⡜⠟⠛⢁⢀⣤⡄⠀⠀ \n⠀⢰⣿⣿⣿⣿⣿⠟⣡⣶⡸⣿⣿⣿⡿⠟⢀⣬⣉⣁⡾⢋⡄⠀⠀ \n⠀⣼⣿⣿⣿⡟⢡⣾⣿⣿⣷⡈⢉⠀⠲⢂⣾⣿⡿⢋⡴⢋⠀⠀⠀ \n⢠⣿⢹⣿⠏⣰⣿⣿⣿⣿⣙⣛⣒⣠⡶⠟⢋⡡⠖⣩⠴⠋⠀⠀⠀ \n⢸⡏⢸⠃⣰⠟⣩⣤⣌⣙⣛⣋⣉⣤⡶⠟⣋⡴⠟⠁⠀⣴⣦⠀⢀ \n⢸⣿⠀⠀⣿⡀⢿⣬⣉⣛⣛⣛⣉⣥⠶⠛⣉⣤⣴⣾⣦⣄⣀⣴⣿ \n⠸⠏⠀⠀⠹⣿⣦⣉⣛⢛⠛⠋⣉⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ \n⢠⣿⡧⠀⠀⠉⠛⢉⠉⢡⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ \n⠈⠛⠁⠀⠀⠀⠸⠿⠃⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ \n⠀⠀⠀⠀⣠⣶⣤⣤⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ \n⠀⠀⠀⠚⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛"
+        },
+        {
+            "name": ".classic2",
+            "func": "LULW CLASSIC"
+        },
+        {
+            "name": ".usa",
+            "func": "forsenLaughingAtYou 🇺🇸 forsenLaughingAtYou 🇺🇸 forsenLaughingAtYou 🇺🇸 forsenLaughingAtYou 🇺🇸 forsenLaughingAtYou 🇺🇸 forsenLaughingAtYou 🇺🇸 forsenLaughingAtYou 🇺🇸 forsenLaughingAtYou 🇺🇸 forsenLaughingAtYou 🇺🇸 forsenLaughingAtYou 🇺🇸 forsenLaughingAtYou 🇺🇸 forsenLaughingAtYou 🇺🇸 forsenLaughingAtYou 🇺🇸 forsenLaughingAtYou 🇺🇸"
+        },
+        {
+            "name": ".lag",
+            "func": "forsenDisco FeelsLagMan forsenDisco FeelsLagMan forsenDisco FeelsLagMan forsenDisco FeelsLagMan forsenDisco FeelsLagMan forsenDisco FeelsLagMan forsenDisco FeelsLagMan forsenDisco FeelsLagMan forsenDisco FeelsLagMan forsenDisco FeelsLagMan forsenDisco FeelsLagMan forsenDisco FeelsLagMan forsenDisco FeelsLagMan forsenDisco FeelsLagMan forsenDisco FeelsLagMan forsenDisco FeelsLagMan forsenDisco FeelsLagMan"
+        },
+        {
+            "name": ".who",
+            "func": "WHO IS HE TALKING TO? LULE"
+        },
+        {
+            "name": ".k",
+            "func": "{1+} forsenKUKLE"
+        },
+        {
+            "name": ".dank4",
+            "func": "⬆ ➡ ⬅ ⬇ ↗ ↖ ↙ ↘ ⬆ ⬇ ⬆ ➡ ⬅ ⬇ ↗ ↖ ↙ ↘ ⬆ ⬇ ⬆ ➡ ⬅ ⬇ ↗ ↖ ↙ ↘ ⬆ ⬇ ⬆ ➡ ⬅ ⬇ ↗ ↖ ↙ ↘ ⬆ ⬇ ⬆ ➡ ⬅ ⬇ ↗ ↖ ↙ ↘ ⬆ ⬇ ⬆ ➡ ⬅ ⬇ ↗ ↖ ↙ ↘ ⬆ ⬇ ⬆ ➡ ⬅ ⬇ ↗ ↖ ↙ ↘ ⬆ ⬇ ⬆ ➡ ⬅ ⬇ ↗ ↖ ↙ ↘ ⬆ ⬇ FeelsDankMan"
+        },
+        {
+            "name": ".test",
+            "func": "you get put to the test and then die like the rest EZY Clap"
+        },
+        {
+            "name": ".alienpls3",
+            "func": "/me ⣾⡟⠀⢰⡿⠁⢠⣿⡏⠁⣰⣾⠟⠉⠉⠉⠛⣿⣶⠈⢻⣷⡀⠈⣿⣧⠈⣿⣧⠀ ⣿⡇⠀⣿⡇⠀⣿⣿⠀⢸⣿⡇⢰⣿ AlienPls ⢸⣿⠀⢸⣿⡇⠀⣿⣿⠀⣿⣿⠀ ⣿⡇⠀⢿⡇⠀⢻⣿⡀⠘⣿⣇⠘⠻⢷⣶⣶⠿⠛⣠⣾⡟⠀⣠⣿⡏⢠⣿⡏ 󠀀"
+        },
+        {
+            "name": ".bruh",
+            "func": "⣿⣿⣿⣿⠏⠘⠛⠂⠄⠄⠉⠙⢻⡟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠄⠄⣿ ⣿⣿⡟⣩⣄⠄⠄⠛⠷⠄⠄⢀⣾⠗⠄⠄⠄⠄⠄⢀⣄⣙⠻⣿⡿⠿⠃⢀⣼⣿ ⣿⡿⢡⣿⣿⣿⣷⡴⢄⣤⣶⣿⣿⣄⠄⠄⠄⢠⣶⣶⡄⠉⠉⠙⢿⡆⢀⣾⣿⣿"
+        },
+        {
+            "name": "n",
+            "func": "forsenNOIDONTTHINKSO {1+}"
+        },
+        {
+            "name": ".poker",
+            "func": "⠄⠄⠄⠄⠄⠄⠄⢿⣿⣿⣿⣿⠟⠋⠉⠉⠹⣿⣷⡞⢤⣿⣿⣿⣿⣿⣿⣿⣿ ⠄⠄⠄⠄⣀⣀⣤⡆⠁⠄⠄⠈⣷⣤⣤⣤⣴⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿ ⠄⢠⣶⣿⣿⣿⣿⣿⣷⡀⢴⣾⡟⠋⠉⢉⣙⠻⠟⢁⠏⣾⣿⣿⣿⣿⣿⣿⣿"
+        },
+        {
+            "name": ".ence2",
+            "func": "Pepege forsenPls"
+        },
+        {
+            "name": ".old",
+            "func": "Chat, this {1} shit is getting old, alright? Fucking christ. do I have to remove this fucking emote? Like what the fuck. Like you are feeding the fucking pingers, honestly, at this point."
+        },
+        {
+            "name": ".cathulo",
+            "func": "Squid1 Pepege Squid4 LOOK FORSAN I AM CATHULO Squid1 Pepege Squid4 LOOK FORSAN I AM CATHULO Squid1 Pepege Squid4 LOOK FORSAN I AM CATHULO"
+        },
+        {
+            "name": ".letsgoforsen2",
+            "func": "forsenGOW LETS forsenGOW GOW forsenGOW FORSEN forsenGOW LETS forsenGOW GOW forsenGOW FORSEN forsenGOW LETS forsenGOW GOW forsenGOW FORSEN"
+        },
+        {
+            "name": ".zepopa",
+            "func": "FeelsGoodMan Clap Yyyyyyy ᴋopoʙꙑ ʜeᴛ ꚉpyrͷx ɜaҕoᴛ FeelsGoodMan Clap Ecᴛ ᴛpaʙy ͷ ᴍoӆoᴋo ꚉaeᴛ FeelsGoodMan Clap Ꚉӆᴙᴙᴙᴙ ᴋoro cᴛapaeᴛcᴙ oʜa FeelsGoodMan Clap Ꚉӆᴙ ᴍeʜᴙ ꚉӆᴙ ᴍeʜᴙ ꚉӆᴙ ᴍeʜᴙ FeelsGoodMan Clap"
+        },
+        {
+            "name": ".vis",
+            "func": "VisLaud 🤙 ⡫⠽⠵⠚⢒⣶⣿⣿⡛⠋⠛⣛⣓⢊⠍⠉⣿⠉⡏⢹⡏⢹⡏⢹⡏⢹⡿⠋⠛⣿ ⡠⠤⠄⠸⠿⠿⠷⠶⠶⣶⣺⡛⢓⣶⠶⡆⠁⢸⡇⢸⡇⢸⡇⢸⡇⢸⣷⣄⠉⢿ ⣿⣿⣯⣝⣛⠛⠻⠿⠟⠛⠄⠤⣒⣾⣿⣿⣤⣿⣧⣼⣧⣼⣧⣼⣧⣼⣧⣤⣤⣿"
+        },
+        {
+            "name": ".ence3",
+            "func": "I made a new command HeyGuys"
+        },
+        {
+            "name": ".usa2",
+            "func": "forsenLaughingAtYou 🇺🇸 {1+}"
+        },
+        {
+            "name": ".dota",
+            "func": "/me forsenPls VI forsenPls SITTER forsenPls HÄR forsenPls I forsenPls VENTEN forsenPls OCH forsenPls SPELAR forsenPls LITE forsenPls DOTA forsenPls"
+        },
+        {
+            "name": ".dank5",
+            "func": "/me ████████████████████████████████ FeelsDankMan FeelsDankMan FeelsDankMan FeelsDankMan FeelsDankMan FeelsDankMan FeelsDankMan FeelsDankMan FeelsDankMan ████████████████████████████████"
+        },
+        {
+            "name": ".dank6",
+            "func": "/me FeelsDankMan ⡀⠄⠂⠁⠂⠄⡀⠄⠂⠁⠂⠄⡀⠄⠂⠁⠂⠄⡀⠄⠂⠁⠂⠄⡀⠄⠂⠁⠂⠄⠁⠂⠄⡀⠄⠂⠁⠂⠄⡀⠄⠂⠁⠂⠄⡀⠄⠂⠁⠂⠄⡀⠄⠂⠁⠂⠄⡀⠄⠂⡀⠄⠂⠁⠂⠄⡀⠄⠂⠁⠂⠄⡀⠄⠂⠁⠂⠄⡀⠄⠂⠁⠂⠄⡀⠄⠂⠁⠂⠄"
+        }
+    ]
+}
