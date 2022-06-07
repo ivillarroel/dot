@@ -1,0 +1,11 @@
+#!/bin/sh
+
+#echo "" > ~/.local/bin/statusbar/weather_output
+
+while true; do
+
+sleep 30 && curl -s "api.openweathermap.org/data/2.5/weather?units=metric&id=3837213&appid=31745732f07c6ef6086c7297e65372fb" | grep -oP '(?<=like":).*(?=,"temp_min)' > ~/.local/bin/statusbar/weather_output
+
+sleep 7200
+
+done
