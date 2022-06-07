@@ -1,0 +1,15 @@
+#!/bin/sh
+
+case $BLOCK_BUTTON in
+	1) setsid -f "$TERMINAL" -e pavucontrol ;;
+esac
+
+#if [ "$vol" -gt "1" ]; then
+#	icon=" "
+#else
+#	icon=" "
+#fi
+
+vol="$(pamixer --get-volume)"
+
+echo "$vol%"

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+w="$(cat ~/.local/bin/statusbar/weather_output)"
+
+echo "$w"

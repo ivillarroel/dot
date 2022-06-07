@@ -1,0 +1,9729 @@
+{"result":"success"}
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 2,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 2,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 2,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 2,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 2,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 2,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 2,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 2,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 8,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 2
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 2
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 3,
+            "urgent": 2
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 3,
+            "urgent": 2
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 7,
+            "urgent": 2
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 7,
+            "urgent": 2
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 2
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 2
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 2
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 2
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 2
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 2
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 2
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 2
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 5,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 5,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 5,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 5,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 32,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 32,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 32,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 32,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 64,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 64,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 32,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 32,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 13,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 13,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 13,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 13,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 13,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 13,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 13,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 13,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 13,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 13,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 13,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 13,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 31,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 31,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 16,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 15,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 13,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 13,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 13,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 13,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 9,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 9,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 9,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 9,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 2,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 2,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 3,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 3,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 7,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 7,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 7,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 7,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 5,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 5,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 5,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 5,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 8,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 1
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 8,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 3,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 8,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 8,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 8,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 0,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 4,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 2,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        }
+    }
+}
+
+{
+    "tag_change_event": {
+        "monitor_number": 1,
+        "old_state": {
+            "selected": 1,
+            "occupied": 0,
+            "urgent": 0
+        },
+        "new_state": {
+            "selected": 1,
+            "occupied": 1,
+            "urgent": 0
+        }
+    }
+}
+

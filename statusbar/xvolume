@@ -1,0 +1,11 @@
+#!/bin/sh
+
+echo "$(pamixer --get-volume)"
+
+while true; do
+
+inotifywait -qq -e access ~/.local/bin/statusbar/output
+
+echo "$(pamixer --get-volume)"
+
+done

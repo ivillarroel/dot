@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sleep 30 && curl "http://api.weatherapi.com/v1/current.xml?key=e2169c4b012546e2ad7222023211209&q=-31.5375,-68.53639" | grep -oP '(?<=temp_c>).*(?=</temp_c>)'
+
