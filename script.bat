@@ -1,4 +1,11 @@
-ECHO OFF
+@echo off 
+
+for /f %%i in ('date /t') do set fecha=%%i
+set fecha=%fecha:/=-%
+set directorio="C:\Users\nacho\Documents\test\"
+set destino="C:\Users\nacho\Documents\backup\backup-
+set comando=%destino%%fecha%"
+
 CD "C:\Users\nacho\Documents\test\"
-"C:\Program Files\WinRAR\Rar.exe" a -ag+DD-MM-YYYY- -r backup "C:\Users\nacho\Documents\test\"
-MOVE *backup.rar "C:\Users\nacho\Documents\"
+"C:\Program Files\WinRAR\Rar.exe" a -r backup %directorio%
+MOVE backup.rar %destino%%fecha%.rar"
